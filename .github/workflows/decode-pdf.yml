@@ -1,0 +1,34 @@
+name: Decode PDF for download
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'osint-faa-ground-stop-2026-11-13/faa-ground-stop-2026-11-13.pdf.b64'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  decode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decode and commit PDF
+        run: |
+          set -euo pipefail
+          b64="osint-faa-ground-stop-2026-11-13/faa-ground-stop-2026-11-13.pdf.b64"
+          out="osint-faa-ground-stop-2026-11-13/faa-ground-stop-2026-11-13.pdf"
+          base64 -d "$b64" > /tmp/out.pdf
+          test -s /tmp/out.pdf
+          if [ -f "$out" ] && cmp -s /tmp/out.pdf "$out"; then
+            echo "PDF already up to date"
+            exit 0
+          fi
+          mv /tmp/out.pdf "$out"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$out"
+          git commit -m "Add decoded PDF for download"
+          git push
