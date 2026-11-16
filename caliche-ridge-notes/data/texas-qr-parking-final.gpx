@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="texas-qr-parking-report" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Texas QR and pay-by-phone parking</name><desc>Public inventory as of November 15, 2026, America/Chicago. Park&amp;Pay excluded. WGS84.</desc></metadata>
+  <wpt lat="32.7888193" lon="-97.3487563"><name>Lot 2 / Lot 3</name><desc>PMC Pay | 140 E Exchange Ave, Fort Worth, TX 76164 | Fort Worth | spaces=360 | est_base=$1,125,058 | 32.7888193,-97.3487563</desc></wpt>
+  <wpt lat="32.7889537" lon="-97.3466437"><name>Lot 4</name><desc>PMC Pay | 409 E Exchange Ave, Fort Worth, TX 76164 | Fort Worth | spaces=245 | est_base=$765,665 | 32.7889537,-97.3466437</desc></wpt>
+  <wpt lat="32.7892216" lon="-97.3449449"><name>Lot 5</name><desc>PMC Pay | 157 E Exchange Ave, Fort Worth, TX 76164 | Fort Worth | spaces=200 | est_base=$625,032 | 32.7892216,-97.3449449</desc></wpt>
+  <wpt lat="32.7889585" lon="-97.3470053"><name>Lot 6</name><desc>PMC Pay | 301 E Exchange Ave, Fort Worth, TX 76164 | Fort Worth | spaces=203 | est_base=$634,408 | 32.7889585,-97.3470053</desc></wpt>
+  <wpt lat="32.788963" lon="-97.34734"><name>Reserve Lot</name><desc>PMC Pay | 129 E Exchange Ave, Fort Worth, TX 76164 | Fort Worth | spaces=46 | est_base=$143,757 | 32.788963,-97.34734</desc></wpt>
+  <wpt lat="32.7889851" lon="-97.3488002"><name>Horseshoe Lot</name><desc>PMC Pay | 133 E Exchange Ave, Fort Worth, TX 76164 | Fort Worth | spaces=75 | est_base=$234,387 | 32.7889851,-97.3488002</desc></wpt>
+  <wpt lat="32.7896348" lon="-97.3476882"><name>Coliseum Lot</name><desc>PMC Pay | 121 E Exchange Ave, Fort Worth, TX 76164 | Fort Worth | spaces=23 | est_base=$71,879 | 32.7896348,-97.3476882</desc></wpt>
+  <wpt lat="32.7916894" lon="-97.3489283"><name>131 Stockyards Blvd</name><desc>PMC Pay | 131 Stockyards Blvd, Fort Worth, TX 76164 | Fort Worth | 32.7916894,-97.3489283</desc></wpt>
+  <wpt lat="32.790042" lon="-97.351691"><name>2501 N Houston</name><desc>PMC Pay | 2501 N Houston Street, Fort Worth, TX 76164 | Fort Worth | 32.790042,-97.351691</desc></wpt>
+  <wpt lat="32.7908758" lon="-97.3477684"><name>2520 Rodeo Plaza</name><desc>PMC Pay | 2520 Rodeo Plaza, Fort Worth, TX 76164 | Fort Worth | 32.7908758,-97.3477684</desc></wpt>
+  <wpt lat="32.789829" lon="-97.350507"><name>201 NW 25th St</name><desc>PMC Pay | 201 NW 25th St, Fort Worth, TX 76164 | Fort Worth | 32.789829,-97.350507</desc></wpt>
+  <wpt lat="32.758171" lon="-97.352924"><name>2600 Whitmore St</name><desc>PMC Pay | 2600 Whitmore Street, Fort Worth, TX 76107 | Fort Worth | 32.758171,-97.352924</desc></wpt>
+  <wpt lat="32.751112" lon="-97.360311"><name>Artisan NW Garage</name><desc>Universal ParkWithU | 3001 W 7th Street, Fort Worth, TX 76107 | Fort Worth | spaces=197 | 32.751112,-97.360311</desc></wpt>
+  <wpt lat="32.7509557" lon="-97.3600673"><name>Artisan NC Garage</name><desc>Universal ParkWithU | 815 Norwood Street, Fort Worth, TX 76107 | Fort Worth | spaces=177 | 32.7509557,-97.3600673</desc></wpt>
+  <wpt lat="32.7499246" lon="-97.3600878"><name>Artisan SC Garage</name><desc>Universal ParkWithU | 921 Norwood Street, Fort Worth, TX 76107 | Fort Worth | spaces=230 | 32.7499246,-97.3600878</desc></wpt>
+  <wpt lat="32.7510487" lon="-97.3569543"><name>Artisan NE Garage</name><desc>Universal ParkWithU | 2821 W 7th Street, Fort Worth, TX 76107 | Fort Worth | spaces=750 | 32.7510487,-97.3569543</desc></wpt>
+  <wpt lat="32.7499471" lon="-97.3582728"><name>Artisan SE Garage</name><desc>Universal ParkWithU | 913 Currie Street, Fort Worth, TX 76107 | Fort Worth | spaces=171 | 32.7499471,-97.3582728</desc></wpt>
+  <wpt lat="32.749117" lon="-97.35639"><name>Foch Lot</name><desc>Universal / ParkChirp | 1001 Foch Street, Fort Worth, TX 76107 | Fort Worth | spaces=246 | est_base=$471,028 | 32.749117,-97.35639</desc></wpt>
+  <wpt lat="32.7491525" lon="-97.3569585"><name>2821 Morton St (7th St lots)</name><desc>ParkChirp / Platinum | 2821 Morton Street, Fort Worth, TX 76107 | Fort Worth | 32.7491525,-97.3569585</desc></wpt>
+  <wpt lat="32.7485508" lon="-97.3599677"><name>2930 Bledsoe (Farrington Field)</name><desc>PMC Pay | 2930 Bledsoe St, Fort Worth, TX 76107 | Fort Worth | 32.7485508,-97.3599677</desc></wpt>
+  <wpt lat="32.730751" lon="-97.3370738"><name>1120 W Magnolia</name><desc>PMC Pay | 1120 West Magnolia Avenue, Fort Worth, TX 76104 | Fort Worth | 32.730751,-97.3370738</desc></wpt>
+  <wpt lat="32.7308154" lon="-97.3379289"><name>1200 W Magnolia</name><desc>PMC Pay | 1200 W Magnolia Ave, Fort Worth, TX 76104 | Fort Worth | 32.7308154,-97.3379289</desc></wpt>
+  <wpt lat="32.7309585" lon="-97.3409922"><name>1412 W Magnolia</name><desc>PMC Pay | 1412 West Magnolia Avenue, Fort Worth, TX 76104 | Fort Worth | 32.7309585,-97.3409922</desc></wpt>
+  <wpt lat="32.730858" lon="-97.3414127"><name>1450 W Magnolia</name><desc>PMC Pay | 1450 W Magnolia Ave, Fort Worth, TX 76104 | Fort Worth | 32.730858,-97.3414127</desc></wpt>
+  <wpt lat="32.730551" lon="-97.337582"><name>1301 S Henderson</name><desc>PMC Pay | 1301 S Henderson, Fort Worth, TX 76104 | Fort Worth | 32.730551,-97.337582</desc></wpt>
+  <wpt lat="32.7303521" lon="-97.3379081"><name>1304 S Henderson</name><desc>PMC Pay | 1304 S Henderson, Fort Worth, TX 76104 | Fort Worth | 32.7303521,-97.3379081</desc></wpt>
+  <wpt lat="32.7370816" lon="-97.3272917"><name>Leuda Lot</name><desc>ParkChirp | 705 Galveston Avenue, Fort Worth, TX 76104 | Fort Worth | 32.7370816,-97.3272917</desc></wpt>
+  <wpt lat="32.7569084" lon="-97.3328479"><name>120 Main St Lot</name><desc>PMC Pay | 120 Main Street, Fort Worth, TX | Fort Worth | 32.7569084,-97.3328479</desc></wpt>
+  <wpt lat="32.74168" lon="-97.325765"><name>301 S Main</name><desc>PMC Pay | 301 S Main St, Fort Worth, TX | Fort Worth | 32.74168,-97.325765</desc></wpt>
+  <wpt lat="32.741659" lon="-97.3259607"><name>308 S Main</name><desc>PMC Pay | 308 S Main St, Fort Worth, TX 76104 | Fort Worth | 32.741659,-97.3259607</desc></wpt>
+  <wpt lat="32.750087" lon="-97.3322304"><name>410 W Tenth</name><desc>PMC Pay | 410 W Tenth Street, Fort Worth, TX 76102 | Fort Worth | 32.750087,-97.3322304</desc></wpt>
+  <wpt lat="32.7517283" lon="-97.3407009"><name>1223 W 5th</name><desc>PMC Pay | 1223 West 5th Street, Fort Worth, TX 76102 | Fort Worth | 32.7517283,-97.3407009</desc></wpt>
+  <wpt lat="32.7931192" lon="-97.349306"><name>2629 Main St</name><desc>PMC Pay | 2629 Main Street, Fort Worth, TX | Fort Worth | 32.7931192,-97.349306</desc></wpt>
+  <wpt lat="32.7874297" lon="-97.3504822"><name>Lot 925 – Alley</name><desc>ParkChirp | 2326 Ellis Avenue, Fort Worth, TX 76164 | Fort Worth | 32.7874297,-97.3504822</desc></wpt>
+  <wpt lat="32.8114571" lon="-96.7702902"><name>1725-1739 Greenville Ave</name><desc>Universal / ParkChirp Scan to Pay | 1725 Greenville Avenue, Dallas, TX 75206 | Dallas | 32.8114571,-96.7702902</desc></wpt>
+  <wpt lat="32.812322" lon="-96.770109"><name>1800-1808 Greenville</name><desc>Universal / ParkChirp Scan to Pay | 1800 Greenville Avenue, Dallas, TX 75206 | Dallas | 32.812322,-96.770109</desc></wpt>
+  <wpt lat="32.813486" lon="-96.7703"><name>1901 Greenville</name><desc>Universal / ParkChirp Scan to Pay | 1901 Greenville Avenue, Dallas, TX 75206 | Dallas | 32.813486,-96.7703</desc></wpt>
+  <wpt lat="32.8140245" lon="-96.7703006"><name>1919-1927 Greenville</name><desc>Universal / ParkChirp Scan to Pay | 1919 Greenville Avenue, Dallas, TX 75206 | Dallas | 32.8140245,-96.7703006</desc></wpt>
+  <wpt lat="32.8153166" lon="-96.7704871"><name>2023 Greenville</name><desc>Universal / ParkChirp Scan to Pay | 2023 Greenville Avenue, Dallas, TX 75206 | Dallas | 32.8153166,-96.7704871</desc></wpt>
+  <wpt lat="32.8121419" lon="-96.7717865"><name>5420 Lewis St</name><desc>Universal / ParkChirp Scan to Pay | 5420 Lewis Street, Dallas, TX 75206 | Dallas | 32.8121419,-96.7717865</desc></wpt>
+  <wpt lat="32.8121412" lon="-96.7717131"><name>5424 Lewis St</name><desc>Universal / ParkChirp Scan to Pay | 5424 Lewis Street, Dallas, TX 75206 | Dallas | 32.8121412,-96.7717131</desc></wpt>
+  <wpt lat="32.8113881" lon="-96.7710088"><name>5429 Ross Ave</name><desc>Universal / ParkChirp Scan to Pay | 5429 Ross Avenue, Dallas, TX 75206 | Dallas | 32.8113881,-96.7710088</desc></wpt>
+  <wpt lat="32.8119322" lon="-96.7698834"><name>5512 Lewis</name><desc>Universal / ParkChirp Scan to Pay | 5512 Lewis Street, Dallas, TX 75206 | Dallas | 32.8119322,-96.7698834</desc></wpt>
+  <wpt lat="32.813446" lon="-96.772166"><name>5601-5605 Alta Ave</name><desc>Universal / ParkChirp Scan to Pay | 5601 Alta Avenue, Dallas, TX 75206 | Dallas | 32.813446,-96.772166</desc></wpt>
+  <wpt lat="32.8144782" lon="-96.7721287"><name>5602-5606 Sears St</name><desc>Universal / ParkChirp Scan to Pay | 5602 Sears Street, Dallas, TX 75206 | Dallas | 32.8144782,-96.7721287</desc></wpt>
+  <wpt lat="32.8153401" lon="-96.7719707"><name>5610 Bell</name><desc>Universal / ParkChirp Scan to Pay | 5610 Bell Avenue, Dallas, TX 75206 | Dallas | 32.8153401,-96.7719707</desc></wpt>
+  <wpt lat="32.8144795" lon="-96.7718306"><name>5610-5618 Sears St</name><desc>Universal / ParkChirp Scan to Pay | 5618 Sears Street, Dallas, TX 75206 | Dallas | 32.8144795,-96.7718306</desc></wpt>
+  <wpt lat="32.8155053" lon="-96.7719695"><name>5611 Bell</name><desc>Universal / ParkChirp Scan to Pay | 5611 Bell Avenue, Dallas, TX 75206 | Dallas | 32.8155053,-96.7719695</desc></wpt>
+  <wpt lat="32.8146448" lon="-96.7717571"><name>5623 Sears St</name><desc>Universal / ParkChirp Scan to Pay | 5623 Sears Street, Dallas, TX 75206 | Dallas | 32.8146448,-96.7717571</desc></wpt>
+  <wpt lat="32.8144803" lon="-96.7716443"><name>5628 Sears</name><desc>Universal / ParkChirp Scan to Pay | 5628 Sears Street, Dallas, TX 75206 | Dallas | 32.8144803,-96.7716443</desc></wpt>
+  <wpt lat="32.8139579" lon="-96.7700054"><name>5710-5712 Oram St</name><desc>Universal / ParkChirp Scan to Pay | 5710 Oram Street, Dallas, TX 75206 | Dallas | 32.8139579,-96.7700054</desc></wpt>
+  <wpt lat="32.8148935" lon="-96.7686712"><name>5711 Prospect</name><desc>Universal / ParkChirp Scan to Pay | 5711 Prospect Avenue, Dallas, TX 75206 | Dallas | 32.8148935,-96.7686712</desc></wpt>
+  <wpt lat="32.8159516" lon="-96.7697623"><name>5714 Richmond</name><desc>Universal / ParkChirp Scan to Pay | 5714 Richmond Avenue, Dallas, TX 75206 | Dallas | 32.8159516,-96.7697623</desc></wpt>
+  <wpt lat="32.8148983" lon="-96.7693861"><name>5715-5719 Prospect</name><desc>Universal / ParkChirp Scan to Pay | 5715 Prospect Avenue, Dallas, TX 75206 | Dallas | 32.8148983,-96.7693861</desc></wpt>
+  <wpt lat="32.814735" lon="-96.7694807"><name>5716 Prospect</name><desc>Universal / ParkChirp Scan to Pay | 5716 Prospect Avenue, Dallas, TX 75206 | Dallas | 32.814735,-96.7694807</desc></wpt>
+  <wpt lat="32.8147289" lon="-96.7687163"><name>5728 Prospect</name><desc>Universal / ParkChirp Scan to Pay | 5728 Prospect Avenue, Dallas, TX 75206 | Dallas | 32.8147289,-96.7687163</desc></wpt>
+  <wpt lat="32.8145495" lon="-96.768275"><name>5740 Prospect</name><desc>Universal / ParkChirp Scan to Pay | 5740 Prospect Avenue, Dallas, TX 75206 | Dallas | 32.8145495,-96.768275</desc></wpt>
+  <wpt lat="32.7835095" lon="-96.7861292"><name>AD Libs Lot</name><desc>Universal / ParkChirp | 2607 Main Street, Dallas, TX 75226 | Dallas | 32.7835095,-96.7861292</desc></wpt>
+  <wpt lat="32.7835736" lon="-96.7858156"><name>Baker Main Lot</name><desc>Universal / ParkChirp | 2623 Main Street, Dallas, TX 75226 | Dallas | 32.7835736,-96.7858156</desc></wpt>
+  <wpt lat="32.781085" lon="-96.7934608"><name>Baker Commerce Lot</name><desc>Universal / ParkChirp | 2625 Commerce Street, Dallas, TX 75226 | Dallas | 32.781085,-96.7934608</desc></wpt>
+  <wpt lat="32.7830756" lon="-96.7843854"><name>Lambeth Lot</name><desc>Universal / ParkChirp | 2711 Commerce Street, Dallas, TX 75226 | Dallas | 32.7830756,-96.7843854</desc></wpt>
+  <wpt lat="32.7846547" lon="-96.7834178"><name>Blind Lemon Lot</name><desc>Universal / ParkChirp | 2806 Elm Street, Dallas, TX 75226 | Dallas | 32.7846547,-96.7834178</desc></wpt>
+  <wpt lat="32.7839248" lon="-96.7832148"><name>Gordon Lot</name><desc>Universal / ParkChirp | 2806 Main Street, Dallas, TX 75226 | Dallas | 32.7839248,-96.7832148</desc></wpt>
+  <wpt lat="32.78549" lon="-96.782553"><name>Indiana Lot</name><desc>Universal / ParkChirp | 2900 Indiana Street, Dallas, TX 75226 | Dallas | 32.78549,-96.782553</desc></wpt>
+  <wpt lat="32.782616" lon="-96.78159"><name>The Horton Lot</name><desc>Universal / ParkChirp | 2901 Canton Street, Dallas, TX 75226 | Dallas | 32.782616,-96.78159</desc></wpt>
+  <wpt lat="32.7804721" lon="-96.7932588"><name>2031 Jackson St</name><desc>PMC Pay | 2031 Jackson Street, Dallas, TX 75201 | Dallas | 32.7804721,-96.7932588</desc></wpt>
+  <wpt lat="32.7809341" lon="-96.7937823"><name>2002 Commerce St</name><desc>PMC Pay | 2002 Commerce St, Dallas, TX | Dallas | 32.7809341,-96.7937823</desc></wpt>
+  <wpt lat="32.80494" lon="-96.7967815"><name>3521 Oak Grove</name><desc>PMC Pay | 3521 Oak Grove, Dallas, TX 75204 | Dallas | 32.80494,-96.7967815</desc></wpt>
+  <wpt lat="32.7893308" lon="-96.7993878"><name>1900 Pearl Garage</name><desc>Universal / ParkChirp | 1900 North Pearl Street, Dallas, TX 75201 | Dallas | 32.7893308,-96.7993878</desc></wpt>
+  <wpt lat="32.7806802" lon="-96.7912316"><name>300 Pearl Garage</name><desc>Universal / ParkChirp | 300 South Pearl Expressway, Dallas, TX 75201 | Dallas | 32.7806802,-96.7912316</desc></wpt>
+  <wpt lat="32.790459" lon="-96.8024301"><name>Texas Capital Center</name><desc>Universal / ParkChirp | 2000 McKinney Avenue, Dallas, TX 75201 | Dallas | 32.790459,-96.8024301</desc></wpt>
+  <wpt lat="32.7504992" lon="-97.0736793"><name>2118 Arlington Downs Rd</name><desc>PMC Pay | 2118 Arlington Downs Road, Arlington, TX 76011 | Arlington | 32.7504992,-97.0736793</desc></wpt>
+  <wpt lat="32.7492069" lon="-97.0788512"><name>Lot 958 (Randol Mill)</name><desc>ParkChirp | 2000 East Randol Mill Road, Arlington, TX 76011 | Arlington | 32.7492069,-97.0788512</desc></wpt>
+  <wpt lat="30.269067" lon="-97.7277622"><name>1154 Lydia St</name><desc>PMC Pay | 1154 Lydia St, Austin, TX 78702 | Austin | 30.269067,-97.7277622</desc></wpt>
+  <wpt lat="30.269281" lon="-97.728993"><name>1050 E 11th St</name><desc>PMC Pay | 1050 E 11th St, Austin, TX 78702 | Austin | 30.269281,-97.728993</desc></wpt>
+  <wpt lat="30.2803108" lon="-97.7369103"><name>1230 E Martin Luther King Jr Blvd</name><desc>PMC Pay | 1230 E Martin Luther King Jr Blvd, Austin, TX 78705 | Austin | 30.2803108,-97.7369103</desc></wpt>
+  <wpt lat="30.269187" lon="-97.755056"><name>301 N Lamar Blvd</name><desc>PMC Pay | 301 N Lamar Blvd, Austin, TX 78703 | Austin | 30.269187,-97.755056</desc></wpt>
+  <wpt lat="30.2649261" lon="-97.7474086"><name>Carmelo's Lot (506 E 5th)</name><desc>PMC Pay | 506 E 5th St., Austin, TX 78701 | Austin | 30.2649261,-97.7474086</desc></wpt>
+  <wpt lat="30.264629" lon="-97.763399"><name>412 Sterzing St</name><desc>PMC Pay | 412 Sterzing St, Austin, TX 78704 | Austin | 30.264629,-97.763399</desc></wpt>
+  <wpt lat="30.2834105" lon="-97.7514675"><name>1801 North Lamar Boulevard</name><desc>PMC Pay | 1801 North Lamar Boulevard, Austin, TX | Austin | 30.2834105,-97.7514675</desc></wpt>
+  <wpt lat="30.2645737" lon="-97.744206"><name>Cypress Lot (216 Congress)</name><desc>PMC Pay | 216 Congress Ave., Austin, TX 78704 | Austin | 30.2645737,-97.744206</desc></wpt>
+  <wpt lat="30.264402" lon="-97.737789"><name>Energy Lot (313 Red River)</name><desc>PMC Pay | 313 Red River Street, Austin, TX 78701 | Austin | 30.264402,-97.737789</desc></wpt>
+  <wpt lat="30.26863" lon="-97.734708"><name>703 East 9th Street</name><desc>PMC Pay | 703 East 9th Street, Austin, TX | Austin | 30.26863,-97.734708</desc></wpt>
+  <wpt lat="30.267876" lon="-97.739396"><name>Pecan Lot (313 E 7th)</name><desc>PMC Pay | 313 E 7th St, Austin, TX 78701 | Austin | 30.267876,-97.739396</desc></wpt>
+  <wpt lat="30.3914673" lon="-97.7139592"><name>2240 W Braker Ln</name><desc>PMC Pay | 2240 W Braker Ln, Austin, TX 78758 | Austin | 30.3914673,-97.7139592</desc></wpt>
+  <wpt lat="30.2676501" lon="-97.7542417"><name>111 Sandra Muraida Way</name><desc>PMC Pay | 111 Sandra Muraida Way, Austin, TX 78703 | Austin | 30.2676501,-97.7542417</desc></wpt>
+  <wpt lat="30.256862" lon="-97.748072"><name>500 South Congress Avenue</name><desc>PMC Pay | 500 South Congress Avenue, Austin, TX 78704 | Austin | 30.256862,-97.748072</desc></wpt>
+  <wpt lat="30.3890961" lon="-97.7141652"><name>2218 Donley Dr</name><desc>PMC Pay | 2218 Donley Dr, Austin, TX 78758 | Austin | 30.3890961,-97.7141652</desc></wpt>
+  <wpt lat="30.388791" lon="-97.711986"><name>2111 Kramer Lane</name><desc>PMC Pay | 2111 Kramer Lane, Austin, TX 78758 | Austin | 30.388791,-97.711986</desc></wpt>
+  <wpt lat="30.3888901" lon="-97.7108908"><name>2115 Kramer Lane</name><desc>PMC Pay | 2115 Kramer Lane, Austin, TX 78758 | Austin | 30.3888901,-97.7108908</desc></wpt>
+  <wpt lat="30.3882035" lon="-97.71403"><name>2201 Donley Drive</name><desc>PMC Pay | 2201 Donley Drive, Austin, TX 78758 | Austin | 30.3882035,-97.71403</desc></wpt>
+  <wpt lat="30.28406" lon="-97.7429072"><name>2105 San Antonio Street</name><desc>PMC Pay | 2105 San Antonio Street, Austin, TX 78705 | Austin | 30.28406,-97.7429072</desc></wpt>
+  <wpt lat="30.280862" lon="-97.7421044"><name>1800 Guadalupe Street</name><desc>PMC Pay | 1800 Guadalupe Street, Austin, TX | Austin | 30.280862,-97.7421044</desc></wpt>
+  <wpt lat="30.272389" lon="-97.757527"><name>1137 W 6th Street</name><desc>PMC Pay | 1137 W 6th Street, Austin, TX 78703 | Austin | 30.272389,-97.757527</desc></wpt>
+  <wpt lat="30.2719761" lon="-97.7339337"><name>315 Sabine Street</name><desc>PMC Pay | 315 Sabine Street, Austin, TX | Austin | 30.2719761,-97.7339337</desc></wpt>
+  <wpt lat="30.265557" lon="-97.73151"><name>1021 E 7th St</name><desc>PMC Pay | 1021 E 7th St, Austin, TX | Austin | 30.265557,-97.73151</desc></wpt>
+  <wpt lat="30.254332" lon="-97.6978024"><name>5012 E 7th Street</name><desc>PMC Pay | 5012 E 7th Street, Austin, TX 78702 | Austin | 30.254332,-97.6978024</desc></wpt>
+  <wpt lat="30.3906746" lon="-97.7226619"><name>10622 Burnet Rd</name><desc>PMC Pay | 10622 Burnet Rd, Austin, TX 78758 | Austin | 30.3906746,-97.7226619</desc></wpt>
+  <wpt lat="30.263681" lon="-97.741625"><name>300 E 2nd St</name><desc>PMC Pay | 300 E 2nd St, Austin, TX 78701 | Austin | 30.263681,-97.741625</desc></wpt>
+  <wpt lat="30.2647149" lon="-97.7481276"><name>Silicon Labs 400 Garage</name><desc>PMC Pay | 400 W Cesar Chavez St, Austin, TX 78701 | Austin | 30.2647149,-97.7481276</desc></wpt>
+  <wpt lat="29.759524" lon="-95.35642"><name>301 La Branch St</name><desc>PMC Pay | 301 La Branch St, Houston, TX 77002 | Houston | 29.759524,-95.35642</desc></wpt>
+  <wpt lat="29.759247" lon="-95.3577575"><name>1410 Preston St</name><desc>PMC Pay | 1410 Preston St, Houston, TX 77002 | Houston | 29.759247,-95.3577575</desc></wpt>
+  <wpt lat="29.7696069" lon="-95.4021321"><name>4110 Lillian St</name><desc>PMC Pay | 4110 Lillian St, Houston, TX 77007 | Houston | 29.7696069,-95.4021321</desc></wpt>
+  <wpt lat="29.7588116" lon="-95.3572038"><name>406 La Branch St</name><desc>PMC Pay | 406 La Branch St, Houston, TX 77002 | Houston | 29.7588116,-95.3572038</desc></wpt>
+  <wpt lat="29.7530371" lon="-95.3536162"><name>319 St Emanuel St</name><desc>PMC Pay | 319 St Emanuel St, Houston, TX 77002 | Houston | 29.7530371,-95.3536162</desc></wpt>
+  <wpt lat="29.7699424" lon="-95.4036142"><name>4215 Washington Ave</name><desc>PMC Pay | 4215 Washington Ave, Houston, TX 77007 | Houston | 29.7699424,-95.4036142</desc></wpt>
+  <wpt lat="29.770353" lon="-95.411666"><name>5001 Washington Ave</name><desc>PMC Pay | 5001 Washington Ave, Houston, TX 77007 | Houston | 29.770353,-95.411666</desc></wpt>
+  <wpt lat="29.7614917" lon="-95.3556228"><name>Loftus Lot (1401 Commerce)</name><desc>PMC Pay | 1401 Commerce St, Houston, TX 77002 | Houston | 29.7614917,-95.3556228</desc></wpt>
+  <wpt lat="29.7705178" lon="-95.411682"><name>5002 Washington Ave</name><desc>PMC Pay | 5002 Washington Ave, Houston, TX 77007 | Houston | 29.7705178,-95.411682</desc></wpt>
+  <wpt lat="29.7702975" lon="-95.4156961"><name>5317 Washington Ave</name><desc>PMC Pay | 5317 Washington Ave, Houston, TX 77007 | Houston | 29.7702975,-95.4156961</desc></wpt>
+  <wpt lat="29.7710862" lon="-95.4127084"><name>5111 Center St</name><desc>PMC Pay | 5111 Center St, Houston, TX 77007 | Houston | 29.7710862,-95.4127084</desc></wpt>
+  <wpt lat="29.7815018" lon="-95.3908761"><name>3107 White Oak Drive</name><desc>PMC Pay | 3107 White Oak Drive, Houston, TX 77007 | Houston | 29.7815018,-95.3908761</desc></wpt>
+  <wpt lat="29.735769" lon="-95.3751268"><name>1504-1510 Winburn Street</name><desc>PMC Pay | 1504-1510 Winburn Street, Houston, TX 77004 | Houston | 29.735769,-95.3751268</desc></wpt>
+  <wpt lat="29.8026466" lon="-95.4145586"><name>918 West 19th Street</name><desc>PMC Pay | 918 West 19th Street, Houston, TX | Houston | 29.8026466,-95.4145586</desc></wpt>
+  <wpt lat="29.7353658" lon="-95.3754091"><name>3709 La Branch Street</name><desc>PMC Pay | 3709 La Branch Street, Houston, TX 77004 | Houston | 29.7353658,-95.3754091</desc></wpt>
+  <wpt lat="29.4319539" lon="-98.4832756"><name>702 Broadway</name><desc>PMC Pay | 702 Broadway, San Antonio, TX 78215 | San Antonio | 29.4319539,-98.4832756</desc></wpt>
+  <wpt lat="29.427682" lon="-98.486694"><name>201 North Alamo Street</name><desc>PMC Pay | 201 North Alamo Street, San Antonio, TX 78205 | San Antonio | 29.427682,-98.486694</desc></wpt>
+  <wpt lat="29.4279855" lon="-98.4873558"><name>240 Broadway</name><desc>PMC Pay | 240 Broadway, San Antonio, TX 78205 | San Antonio | 29.4279855,-98.4873558</desc></wpt>
+  <wpt lat="29.42681" lon="-98.4868492"><name>119 North Alamo Street</name><desc>PMC Pay | 119 North Alamo Street, San Antonio, TX 78205 | San Antonio | 29.42681,-98.4868492</desc></wpt>
+  <wpt lat="29.4301214" lon="-98.4887175"><name>106 Auditorium Cir</name><desc>PMC Pay | 106 Auditorium Cir, San Antonio, TX 78205 | San Antonio | 29.4301214,-98.4887175</desc></wpt>
+  <wpt lat="29.4294341" lon="-98.4940994"><name>311 W Martin St</name><desc>PMC Pay | 311 W Martin St, San Antonio, TX 78205 | San Antonio | 29.4294341,-98.4940994</desc></wpt>
+  <wpt lat="29.4216263" lon="-98.4779461"><name>1211 E Commerce St</name><desc>PMC Pay | 1211 E Commerce St, San Antonio, TX 78205 | San Antonio | 29.4216263,-98.4779461</desc></wpt>
+  <wpt lat="29.4163332" lon="-98.4901003"><name>122 Madison Street</name><desc>PMC Pay | 122 Madison Street, San Antonio, TX 78204 | San Antonio | 29.4163332,-98.4901003</desc></wpt>
+  <wpt lat="29.4518865" lon="-98.4856683"><name>2909 N. St. Mary's Street</name><desc>PMC Pay | 2909 N. St. Mary's Street, San Antonio, TX 78212 | San Antonio | 29.4518865,-98.4856683</desc></wpt>
+  <wpt lat="29.4316782" lon="-98.4850914"><name>209 6th St</name><desc>PMC Pay | 209 6th St, San Antonio, TX | San Antonio | 29.4316782,-98.4850914</desc></wpt>
+  <wpt lat="29.4275517" lon="-98.4788364"><name>314 Nolan St</name><desc>PMC Pay | 314 Nolan St, San Antonio, TX | San Antonio | 29.4275517,-98.4788364</desc></wpt>
+  <wpt lat="29.4308216" lon="-98.4898451"><name>1015 Navarro Street</name><desc>PMC Pay | 1015 Navarro Street, San Antonio, TX | San Antonio | 29.4308216,-98.4898451</desc></wpt>
+  <wpt lat="29.4273874" lon="-98.4827093"><name>540 Bonham</name><desc>PMC Pay | 540 Bonham, San Antonio, TX | San Antonio | 29.4273874,-98.4827093</desc></wpt>
+  <wpt lat="29.431197" lon="-98.482444"><name>700 N Alamo Street</name><desc>PMC Pay | 700 N Alamo Street, San Antonio, TX | San Antonio | 29.431197,-98.482444</desc></wpt>
+  <wpt lat="27.7970446" lon="-97.3948604"><name>614 N Mesquite Street</name><desc>PMC Pay | 614 N Mesquite Street, Corpus Christi, TX 78401 | Corpus Christi | 27.7970446,-97.3948604</desc></wpt>
+  <wpt lat="29.443226" lon="-98.475452"><name>500 East Grayson Street</name><desc>PMC Pay | 500 East Grayson Street, San Antonio, TX | San Antonio | 29.443226,-98.475452</desc></wpt>
+  <wpt lat="29.443425" lon="-98.47544"><name>1900 N Alamo</name><desc>PMC Pay | 1900 N Alamo, San Antonio, TX 78215 | San Antonio | 29.443425,-98.47544</desc></wpt>
+  <wpt lat="27.7969775" lon="-97.3889607"><name>108 Peoples Street</name><desc>PMC Pay | 108 Peoples Street, Corpus Christi, TX 78401 | Corpus Christi | 27.7969775,-97.3889607</desc></wpt>
+  <wpt lat="29.253266" lon="-94.8498484"><name>8610 Seawall Blvd</name><desc>PMC Pay | 8610 Seawall Blvd, Galveston, TX 77554 | Galveston | 29.253266,-94.8498484</desc></wpt>
+  <wpt lat="27.7981178" lon="-97.3937121"><name>724 N Chaparral Street</name><desc>PMC Pay | 724 N Chaparral Street, Corpus Christi, TX 78401 | Corpus Christi | 27.7981178,-97.3937121</desc></wpt>
+  <wpt lat="27.794994" lon="-97.393153"><name>401 N Water Street</name><desc>PMC Pay | 401 N Water Street, Corpus Christi, TX 78401 | Corpus Christi | 27.794994,-97.393153</desc></wpt>
+  <wpt lat="31.5607784" lon="-97.1120619"><name>814 E 4th Street</name><desc>PMC Pay | 814 E 4th Street, Waco, TX 76706 | Waco | 31.5607784,-97.1120619</desc></wpt>
+  <wpt lat="31.5670825" lon="-97.1213036"><name>300 Taylor Street</name><desc>PMC Pay | 300 Taylor Street, Waco, TX 76704 | Waco | 31.5670825,-97.1213036</desc></wpt>
+  <wpt lat="31.5591761" lon="-97.1335639"><name>407 Columbus Avenue</name><desc>PMC Pay | 407 Columbus Avenue, Waco, TX | Waco | 31.5591761,-97.1335639</desc></wpt>
+  <wpt lat="30.6046558" lon="-96.3388844"><name>111 George Bush Drive</name><desc>PMC Pay | 111 George Bush Drive, College Station, TX 77840 | College Station | 30.6046558,-96.3388844</desc></wpt>
+  <wpt lat="31.5575507" lon="-97.1349158"><name>613 Columbus Ave</name><desc>PMC Pay | 613 Columbus Ave, Waco, TX 76701 | Waco | 31.5575507,-97.1349158</desc></wpt>
+  <wpt lat="31.5574823" lon="-97.1349926"><name>625 Columbus Ave</name><desc>PMC Pay | 625 Columbus Ave, Waco, TX 76701 | Waco | 31.5574823,-97.1349926</desc></wpt>
+  <wpt lat="31.5327958" lon="-97.1028208"><name>602-606 S 4th Street</name><desc>PMC Pay | 602-606 S 4th Street, Waco, TX 76706 | Waco | 31.5327958,-97.1028208</desc></wpt>
+  <wpt lat="29.7653588" lon="-95.3724804"><name>1503 Lubbock St</name><desc>PMC Pay | 1503 Lubbock St, Houston, TX 77007 | Houston | 29.7653588,-95.3724804</desc></wpt>
+  <wpt lat="30.6413134" lon="-97.6786136"><name>202 S Austin Ave</name><desc>PMC Pay | 202 S Austin Ave, Georgetown, TX | Georgetown | 30.6413134,-97.6786136</desc></wpt>
+  <wpt lat="31.5566344" lon="-97.1321168"><name>513 Austin Avenue</name><desc>PMC Pay | 513 Austin Avenue, Waco, TX | Waco | 31.5566344,-97.1321168</desc></wpt>
+  <wpt lat="30.2635109" lon="-97.7416359"><name>307 E 2nd St</name><desc>PMC Pay | 307 E 2nd St, Austin, TX 78701 | Austin | 30.2635109,-97.7416359</desc></wpt>
+  <wpt lat="30.268192" lon="-97.729575"><name>1101 E 10th</name><desc>PMC Pay | 1101 E 10th Street, Austin, TX 78702 | Austin | 30.268192,-97.729575</desc></wpt>
+  <wpt lat="30.2665" lon="-97.743888"><name>400 Congress Ave</name><desc>PMC Pay | 400 Congress Ave, Austin, TX 78701 | Austin | 30.2665,-97.743888</desc></wpt>
+  <wpt lat="30.257113" lon="-97.7384871"><name>56 East Ave</name><desc>PMC Pay | 56 East Ave, Austin, TX 78701 | Austin | 30.257113,-97.7384871</desc></wpt>
+  <wpt lat="30.248204" lon="-97.755283"><name>1619 S 1st</name><desc>PMC Pay | 1619 S 1st Street, Austin, TX 78704 | Austin | 30.248204,-97.755283</desc></wpt>
+  <wpt lat="30.2620335" lon="-97.7286781"><name>1400 E 4th</name><desc>PMC Pay | 1400 East 4th Street, Austin, TX 78702 | Austin | 30.2620335,-97.7286781</desc></wpt>
+  <wpt lat="30.235261" lon="-97.846762"><name>5725 W US Hwy 290</name><desc>PMC Pay | 5725 W US Hwy 290 Service Road, Austin, TX 78735 | Austin | 30.235261,-97.846762</desc></wpt>
+  <wpt lat="29.7388366" lon="-95.3804367"><name>3707 Travis</name><desc>PMC Pay | 3707 Travis St, Houston, TX 77002 | Houston | 29.7388366,-95.3804367</desc></wpt>
+  <wpt lat="29.7389422" lon="-95.3805832"><name>3702 Travis</name><desc>PMC Pay | 3702 Travis St, Houston, TX 77002 | Houston | 29.7389422,-95.3805832</desc></wpt>
+  <wpt lat="29.738915" lon="-95.3806042"><name>3710 Travis</name><desc>PMC Pay | 3710 Travis St, Houston, TX 77002 | Houston | 29.738915,-95.3806042</desc></wpt>
+  <wpt lat="29.7350912" lon="-95.375478"><name>1518 Alabama</name><desc>PMC Pay | 1518 Alabama St, Houston, TX 77004 | Houston | 29.7350912,-95.375478</desc></wpt>
+  <wpt lat="29.773175" lon="-95.409425"><name>1300 Shepherd</name><desc>PMC Pay | 1300 Shepherd Dr, Houston, TX 77007 | Houston | 29.773175,-95.409425</desc></wpt>
+  <wpt lat="29.7708603" lon="-95.4088794"><name>4720 Washington Ave</name><desc>PMC Pay | 4720 Washington Ave, Houston, TX 77007 | Houston | 29.7708603,-95.4088794</desc></wpt>
+  <wpt lat="29.7703602" lon="-95.4136878"><name>5219 Washington Ave</name><desc>PMC Pay | 5219 Washington Ave, Houston, TX 77007 | Houston | 29.7703602,-95.4136878</desc></wpt>
+  <wpt lat="29.7704282" lon="-95.4151116"><name>5318 Washington Ave</name><desc>PMC Pay | 5318 Washington Ave, Houston, TX 77007 | Houston | 29.7704282,-95.4151116</desc></wpt>
+  <wpt lat="29.7707396" lon="-95.41607"><name>5334 Washington Ave</name><desc>PMC Pay | 5334 Washington Ave, Houston, TX 77007 | Houston | 29.7707396,-95.41607</desc></wpt>
+  <wpt lat="29.7704294" lon="-95.4151352"><name>5335 Washington Ave</name><desc>PMC Pay | 5335 Washington Ave, Houston, TX 77007 | Houston | 29.7704294,-95.4151352</desc></wpt>
+  <wpt lat="29.7698792" lon="-95.4135139"><name>905 Reinerman</name><desc>PMC Pay | 905 Reinerman St, Houston, TX 77007 | Houston | 29.7698792,-95.4135139</desc></wpt>
+  <wpt lat="30.6240482" lon="-96.3426407"><name>303 College Ave</name><desc>PMC Pay | 303 College Ave, College Station, TX 77840 | College Station | 30.6240482,-96.3426407</desc></wpt>
+  <wpt lat="31.751709" lon="-106.4826792"><name>304 E 7th Ave</name><desc>PMC Pay | 304 E 7th Ave, El Paso, TX | El Paso | 31.751709,-106.4826792</desc></wpt>
+  <wpt lat="30.2713998" lon="-97.7486368"><name>Easy Post</name><desc>ParkChirp | 707 Rio Grande Street, Austin, TX 78701 | Austin | 30.2713998,-97.7486368</desc></wpt>
+  <wpt lat="30.279265" lon="-97.742129"><name>1611 Guadalupe</name><desc>ParkChirp / Platinum Parking | 1611 Guadalupe Street, Austin, TX 78701 | Austin | 30.279265,-97.742129</desc></wpt>
+  <wpt lat="30.271986" lon="-97.732982"><name>1200 Sabine Lot</name><desc>Parking Systems of America | 1200 North Interstate Highway 35, Austin, TX 78701 | Austin | 30.271986,-97.732982</desc></wpt>
+  <wpt lat="30.255313" lon="-97.745449"><name>153 E Riverside Lot</name><desc>Parking Systems of America | 153 East Riverside Drive, Austin, TX 78704 | Austin | 30.255313,-97.745449</desc></wpt>
+  <wpt lat="30.2586092" lon="-97.7504591"><name>1628 Barton Springs – Lot</name><desc>Parking Systems of America | 628 Barton Springs Road, Austin, TX 78704 | Austin | 30.2586092,-97.7504591</desc></wpt>
+  <wpt lat="32.7883547" lon="-96.8046451"><name>1717 McKinney Garage</name><desc>Parking Systems of America | 1717 McKinney Avenue, Dallas, TX 75201 | Dallas | 32.7883547,-96.8046451</desc></wpt>
+  <wpt lat="30.28129" lon="-97.741468"><name>1811 Guadalupe Lot</name><desc>Parking Systems of America | 1811 Guadalupe Street, Austin, TX 78701 | Austin | 30.28129,-97.741468</desc></wpt>
+  <wpt lat="32.7898721" lon="-96.8027394"><name>1920 McKinney – Harwood Garage</name><desc>Parking Systems of America | 2135 North Harwood Street, Dallas, TX 75201 | Dallas | 32.7898721,-96.8027394</desc></wpt>
+  <wpt lat="32.7901344" lon="-96.8033543"><name>1920 McKinney Garage</name><desc>Parking Systems of America | 1920 McKinney Avenue, Dallas, TX 75201 | Dallas | 32.7901344,-96.8033543</desc></wpt>
+  <wpt lat="30.2552939" lon="-97.744049"><name>200 E Riverside Lot</name><desc>Parking Systems of America | 200 East Riverside Drive, Austin, TX 78704 | Austin | 30.2552939,-97.744049</desc></wpt>
+  <wpt lat="32.794692" lon="-96.802141"><name>2400 McKinney Ave.</name><desc>Parking Systems of America | 2400 McKinney Avenue, Dallas, TX 75201 | Dallas | 32.794692,-96.802141</desc></wpt>
+  <wpt lat="29.7349343" lon="-95.4628278"><name>3040 Post Garage</name><desc>Parking Systems of America | 3040 Post Oak Boulevard, Houston, TX 77056 | Houston | 29.7349343,-95.4628278</desc></wpt>
+  <wpt lat="31.9111786" lon="-106.5839219"><name>7051 S Desert Blvd.</name><desc>Parking Systems of America | 7051 South Desert Boulevard, Canutillo, TX 79835 | Canutillo | 31.9111786,-106.5839219</desc></wpt>
+  <wpt lat="33.9132838" lon="-98.491361"><name>727 Indiana Ave</name><desc>Parking Systems of America | 727 Indiana Avenue, Wichita Falls, TX 76301 | Wichita Falls | 33.9132838,-98.491361</desc></wpt>
+  <wpt lat="32.7675195" lon="-97.3389121"><name>777 Main East Garage</name><desc>Parking Systems of America | 711 Commerce Street, Fort Worth, TX 76102 | Fort Worth | 32.7675195,-97.3389121</desc></wpt>
+  <wpt lat="32.7541394" lon="-97.3293287"><name>777 Main North Garage</name><desc>Parking Systems of America | 601 Commerce Street, Fort Worth, TX 76102 | Fort Worth | 32.7541394,-97.3293287</desc></wpt>
+  <wpt lat="32.7530696" lon="-97.3304321"><name>779 Main West Garage</name><desc>Parking Systems of America | 115 West 6th Street, Fort Worth, TX 76102 | Fort Worth | 32.7530696,-97.3304321</desc></wpt>
+  <wpt lat="33.9123644" lon="-98.4908532"><name>808 Indiana Ave</name><desc>Parking Systems of America | 808 Indiana Avenue, Wichita Falls, TX 76301 | Wichita Falls | 33.9123644,-98.4908532</desc></wpt>
+  <wpt lat="33.9129677" lon="-98.4896673"><name>814 Ohio Ave</name><desc>Parking Systems of America | 814 Ohio Avenue, Wichita Falls, TX 76301 | Wichita Falls | 33.9129677,-98.4896673</desc></wpt>
+  <wpt lat="33.9123928" lon="-98.4906375"><name>817 Indiana Ave</name><desc>Parking Systems of America | 817 Indiana Avenue, Wichita Falls, TX 76301 | Wichita Falls | 33.9123928,-98.4906375</desc></wpt>
+  <wpt lat="32.8231057" lon="-96.7173427"><name>Arboretum (Entry 1) – Lot 172</name><desc>Parking Systems of America | 8525 South State Highway 78, Dallas, TX 75218 | Dallas | 32.8231057,-96.7173427</desc></wpt>
+  <wpt lat="32.8245855" lon="-96.7134136"><name>Arboretum (Entry 3) – Lot 174</name><desc>Parking Systems of America | 8657 Garland Road, Dallas, TX 75218 | Dallas | 32.8245855,-96.7134136</desc></wpt>
+  <wpt lat="32.8316947" lon="-96.7046336"><name>Arboretum (Entry 4 Garage) – Lot 175</name><desc>Parking Systems of America | 8720 Garland Road, Dallas, TX 75218 | Dallas | 32.8316947,-96.7046336</desc></wpt>
+  <wpt lat="32.742679" lon="-97.097268"><name>ASID Lot</name><desc>Parking Systems of America | 900 East Sanford Street, Arlington, TX 76011 | Arlington | 32.742679,-97.097268</desc></wpt>
+  <wpt lat="32.7478503" lon="-97.0928337"><name>AT&amp;T Stadium (Dallas Cowboys)</name><desc>Parking Systems of America | 1 AT&amp;T Way, Arlington, TX 76011 | Arlington | 32.7478503,-97.0928337</desc></wpt>
+  <wpt lat="32.7781002" lon="-96.7613944"><name>Automobile Building</name><desc>Parking Systems of America | 1010 1st Avenue, Dallas, TX 75210 | Dallas | 32.7781002,-96.7613944</desc></wpt>
+  <wpt lat="32.7560685" lon="-97.096781"><name>BBT Bank Lot</name><desc>Parking Systems of America | 1401 North Collins Street, Arlington, TX 76011 | Arlington | 32.7560685,-97.096781</desc></wpt>
+  <wpt lat="32.754208" lon="-97.097088"><name>Buffalo Wild Wings Lot</name><desc>Parking Systems of America | 1301 North Collins Street, Arlington, TX 76011 | Arlington | 32.754208,-97.097088</desc></wpt>
+  <wpt lat="32.7805297" lon="-96.75394"><name>Centennial Hall</name><desc>Parking Systems of America | 1001 Washington Street, Dallas, TX 75210 | Dallas | 32.7805297,-96.75394</desc></wpt>
+  <wpt lat="33.1025835" lon="-96.8183061"><name>Comerica Center</name><desc>Parking Systems of America | 601 Avenue of the Stars, Frisco, TX | Frisco | 33.1025835,-96.8183061</desc></wpt>
+  <wpt lat="32.7796119" lon="-96.7596025"><name>Cotton Bowl Stadium</name><desc>Parking Systems of America | 3750 The Midway, Dallas, TX 75215 | Dallas | 32.7796119,-96.7596025</desc></wpt>
+  <wpt lat="32.774462" lon="-96.7574771"><name>Dos Equis Pavilion</name><desc>Parking Systems of America | 1818 1st Avenue, Dallas, TX 75210 | Dallas | 32.774462,-96.7574771</desc></wpt>
+  <wpt lat="32.8593431" lon="-96.763478"><name>Drey Hotel- The Village Dallas</name><desc>Parking Systems of America | 5630 Village Glen Drive, Dallas, TX 75206 | Dallas | 32.8593431,-96.763478</desc></wpt>
+  <wpt lat="32.7781257" lon="-96.7569025"><name>Fair Park Coliseum</name><desc>Parking Systems of America | 1438 Coliseum, Dallas, TX 75201 | Dallas | 32.7781257,-96.7569025</desc></wpt>
+  <wpt lat="32.7862882" lon="-96.8001441"><name>Fashion Industry Gallery</name><desc>Parking Systems of America | 1807 Ross Avenue, Dallas, TX 75201 | Dallas | 32.7862882,-96.8001441</desc></wpt>
+  <wpt lat="32.747642" lon="-97.0841049"><name>Globe Life Field and Park</name><desc>Parking Systems of America | 734 Stadium Drive, Arlington, TX 76011 | Arlington | 32.747642,-97.0841049</desc></wpt>
+  <wpt lat="32.7941483" lon="-96.8041997"><name>Hotel Crescent</name><desc>Parking Systems of America | 400 Crescent Court, Dallas, TX 75201 | Dallas | 32.7941483,-96.8041997</desc></wpt>
+  <wpt lat="32.7941317" lon="-96.8010961"><name>Hotel ZaZa</name><desc>Parking Systems of America | 2332 Leonard Street, Dallas, TX 75201 | Dallas | 32.7941317,-96.8010961</desc></wpt>
+  <wpt lat="30.2672886" lon="-97.7462484"><name>Hotel ZaZa Austin</name><desc>Parking Systems of America | 400 Lavaca Street, Austin, TX 78701 | Austin | 30.2672886,-97.7462484</desc></wpt>
+  <wpt lat="29.7837514" lon="-95.5349246"><name>Hotel ZaZa Memorial City</name><desc>Parking Systems of America | 9787 Katy Freeway, Houston, TX 77024 | Houston | 29.7837514,-95.5349246</desc></wpt>
+  <wpt lat="29.7243621" lon="-95.3911247"><name>Hotel ZaZa Museum District</name><desc>Parking Systems of America | 5701 Main Street, Houston, TX 77005 | Houston | 29.7243621,-95.3911247</desc></wpt>
+  <wpt lat="30.3920884" lon="-97.7233262"><name>HPI Domain Tower</name><desc>Parking Systems of America | 10721 Domain Drive, Austin, TX 78758 | Austin | 30.3920884,-97.7233262</desc></wpt>
+  <wpt lat="33.0992744" lon="-96.8128644"><name>Hyatt Regency Frisco</name><desc>Parking Systems of America | 2615 Preston Road, Frisco, TX 75034 | Frisco | 33.0992744,-96.8128644</desc></wpt>
+  <wpt lat="32.79222" lon="-96.8145713"><name>Inspiration Lot</name><desc>Parking Systems of America | 1333 North Stemmons Freeway, Dallas, TX 75207 | Dallas | 32.79222,-96.8145713</desc></wpt>
+  <wpt lat="33.1595223" lon="-96.9715106"><name>Little Elm Park</name><desc>Parking Systems of America | 701 West Eldorado Parkway, Little Elm, TX 75068 | Little Elm | 33.1595223,-96.9715106</desc></wpt>
+  <wpt lat="32.7607789" lon="-96.7933637"><name>Longhorn Ballroom</name><desc>Parking Systems of America | 418 Corinth Street, Dallas, TX 75207 | Dallas | 32.7607789,-96.7933637</desc></wpt>
+  <wpt lat="32.7826647" lon="-96.7908754"><name>Lot 10</name><desc>Parking Systems of America | 2201 Main Street, Dallas, TX 75201 | Dallas | 32.7826647,-96.7908754</desc></wpt>
+  <wpt lat="32.790687" lon="-96.794662"><name>Lot 104</name><desc>Parking Systems of America | 2600 Ross Avenue, Dallas, TX 75201 | Dallas | 32.790687,-96.794662</desc></wpt>
+  <wpt lat="32.7654447" lon="-96.7919076"><name>Lot 105</name><desc>Parking Systems of America | 1805 Botham Jean Boulevard, Dallas, TX 75215 | Dallas | 32.7654447,-96.7919076</desc></wpt>
+  <wpt lat="32.7659913" lon="-96.7932632"><name>Lot 106</name><desc>Parking Systems of America | 1717 Botham Jean Boulevard, Dallas, TX 75215 | Dallas | 32.7659913,-96.7932632</desc></wpt>
+  <wpt lat="32.7822913" lon="-96.7998821"><name>Lot 11</name><desc>Parking Systems of America | 319 North Akard Street, Dallas, TX 75201 | Dallas | 32.7822913,-96.7998821</desc></wpt>
+  <wpt lat="32.7660241" lon="-96.7912614"><name>Lot 111</name><desc>Parking Systems of America | 1810 Cockrell Avenue, Dallas, TX 75215 | Dallas | 32.7660241,-96.7912614</desc></wpt>
+  <wpt lat="32.7676343" lon="-96.7900462"><name>Lot 112</name><desc>Parking Systems of America | 1813 South Akard Street, Dallas, TX 75201 | Dallas | 32.7676343,-96.7900462</desc></wpt>
+  <wpt lat="32.7704425" lon="-96.7924878"><name>Lot 113</name><desc>Parking Systems of America | 1418 South Akard Street, Dallas, TX 75215 | Dallas | 32.7704425,-96.7924878</desc></wpt>
+  <wpt lat="32.7829615" lon="-96.7923267"><name>Lot 12</name><desc>Parking Systems of America | 2203 Elm Street, Dallas, TX 75201 | Dallas | 32.7829615,-96.7923267</desc></wpt>
+  <wpt lat="32.7865571" lon="-96.8050429"><name>Lot 120</name><desc>Parking Systems of America | 500 North Field Street, Dallas, TX 75202 | Dallas | 32.7865571,-96.8050429</desc></wpt>
+  <wpt lat="32.788901" lon="-96.8069782"><name>Lot 121</name><desc>Parking Systems of America | 501 North Field Street, Dallas, TX 75202 | Dallas | 32.788901,-96.8069782</desc></wpt>
+  <wpt lat="32.7858233" lon="-96.8042734"><name>Lot 122</name><desc>Parking Systems of America | 601 North Field Street, Dallas, TX 75202 | Dallas | 32.7858233,-96.8042734</desc></wpt>
+  <wpt lat="32.783792" lon="-96.801974"><name>Lot 123</name><desc>Parking Systems of America | 1401 San Jacinto Street, Dallas, TX 75201 | Dallas | 32.783792,-96.801974</desc></wpt>
+  <wpt lat="32.7840962" lon="-96.8027625"><name>Lot 124</name><desc>Parking Systems of America | 1397 Ross Avenue, Dallas, TX 75202 | Dallas | 32.7840962,-96.8027625</desc></wpt>
+  <wpt lat="32.7847247" lon="-96.8039382"><name>Lot 125</name><desc>Parking Systems of America | 704 North Griffin Street, Dallas, TX 75202 | Dallas | 32.7847247,-96.8039382</desc></wpt>
+  <wpt lat="32.7828093" lon="-96.8040142"><name>Lot 126 – Ross Garage</name><desc>Parking Systems of America | 1200 Ross Avenue, Dallas, TX 75202 | Dallas | 32.7828093,-96.8040142</desc></wpt>
+  <wpt lat="32.7826908" lon="-96.8039422"><name>Lot 127</name><desc>Parking Systems of America | 540 North Griffin Street, Dallas, TX 75202 | Dallas | 32.7826908,-96.8039422</desc></wpt>
+  <wpt lat="32.782759" lon="-96.8015368"><name>Lot 14</name><desc>Parking Systems of America | 1310 Patterson Street, Dallas, TX 75202 | Dallas | 32.782759,-96.8015368</desc></wpt>
+  <wpt lat="32.7930318" lon="-96.8102365"><name>Lot 151</name><desc>Parking Systems of America | 2213 Caroline Street, Dallas, TX 75202 | Dallas | 32.7930318,-96.8102365</desc></wpt>
+  <wpt lat="29.7511206" lon="-95.3678926"><name>Lot 1512</name><desc>Parking Systems of America | 1121 Pease Street, Houston, TX 77002 | Houston | 29.7511206,-95.3678926</desc></wpt>
+  <wpt lat="29.7665503" lon="-95.3677802"><name>Lot 1519</name><desc>Parking Systems of America | 902 Washington Avenue, Houston, TX 77002 | Houston | 29.7665503,-95.3677802</desc></wpt>
+  <wpt lat="32.7883536" lon="-96.8066257"><name>Lot 152</name><desc>Parking Systems of America | 2213n North Field Street, Dallas, TX 75202 | Dallas | 32.7883536,-96.8066257</desc></wpt>
+  <wpt lat="29.7593967" lon="-95.3565192"><name>Lot 1521</name><desc>Parking Systems of America | 323 La Branch Street, Houston, TX 77002 | Houston | 29.7593967,-95.3565192</desc></wpt>
+  <wpt lat="29.7517864" lon="-95.3726356"><name>Lot 1525</name><desc>Parking Systems of America | 703 Saint Joseph Parkway, Houston, TX 77002 | Houston | 29.7517864,-95.3726356</desc></wpt>
+  <wpt lat="32.7659393" lon="-96.7931934"><name>Lot 153</name><desc>Parking Systems of America | 1723 Botham Jean Boulevard, Dallas, TX 75215 | Dallas | 32.7659393,-96.7931934</desc></wpt>
+  <wpt lat="29.7523794" lon="-95.372132"><name>Lot 1531</name><desc>Parking Systems of America | 708 Jefferson Street, Houston, TX 77002 | Houston | 29.7523794,-95.372132</desc></wpt>
+  <wpt lat="29.7510359" lon="-95.3519918"><name>Lot 1532</name><desc>Parking Systems of America | 822 Emancipation Avenue, Houston, TX 77003 | Houston | 29.7510359,-95.3519918</desc></wpt>
+  <wpt lat="29.7514468" lon="-95.3707037"><name>Lot 1533</name><desc>Parking Systems of America | 1802 Travis Street, Houston, TX 77002 | Houston | 29.7514468,-95.3707037</desc></wpt>
+  <wpt lat="29.7568667" lon="-95.3519227"><name>Lot 1534</name><desc>Parking Systems of America | 2020 Congress Street, Houston, TX 77002 | Houston | 29.7568667,-95.3519227</desc></wpt>
+  <wpt lat="29.7565914" lon="-95.362339"><name>Lot 1535</name><desc>Parking Systems of America | 1215 Walker Street, Houston, TX 77002 | Houston | 29.7565914,-95.362339</desc></wpt>
+  <wpt lat="32.7883287" lon="-96.7823217"><name>Lot 154</name><desc>Parking Systems of America | 3212 Nussbaumer Street, Dallas, TX 75226 | Dallas | 32.7883287,-96.7823217</desc></wpt>
+  <wpt lat="32.7890441" lon="-96.782582"><name>Lot 155</name><desc>Parking Systems of America / Platinum Parking | 3214 Gaston Avenue, Dallas, TX 75226 | Dallas | 32.7890441,-96.782582</desc></wpt>
+  <wpt lat="32.7763753" lon="-96.7903319"><name>Lot 156</name><desc>Parking Systems of America | 1011 South Harwood Street, Dallas, TX 75201 | Dallas | 32.7763753,-96.7903319</desc></wpt>
+  <wpt lat="32.806898" lon="-96.795917"><name>Lot 157</name><desc>Parking Systems of America | 2901 Cityplace West Boulevard, Dallas, TX 75204 | Dallas | 32.806898,-96.795917</desc></wpt>
+  <wpt lat="32.749856" lon="-96.8283868"><name>Lot 158</name><desc>Parking Systems of America | 611 North Bishop Avenue, Dallas, TX 75208 | Dallas | 32.749856,-96.8283868</desc></wpt>
+  <wpt lat="32.7493537" lon="-96.8412536"><name>Lot 159</name><desc>Parking Systems of America | 508 North Winnetka Avenue, Dallas, TX 75208 | Dallas | 32.7493537,-96.8412536</desc></wpt>
+  <wpt lat="32.7803149" lon="-96.8057668"><name>Lot 16</name><desc>Parking Systems of America | 711 Elm Street, Dallas, TX 75202 | Dallas | 32.7803149,-96.8057668</desc></wpt>
+  <wpt lat="32.7493569" lon="-96.8418764"><name>Lot 160</name><desc>Parking Systems of America | 509 North Winnetka Avenue, Dallas, TX 75208 | Dallas | 32.7493569,-96.8418764</desc></wpt>
+  <wpt lat="32.7843382" lon="-96.7849188"><name>Lot 163</name><desc>Parking Systems of America | 2710 Elm Street, Dallas, TX 75226 | Dallas | 32.7843382,-96.7849188</desc></wpt>
+  <wpt lat="32.7802573" lon="-96.8052355"><name>Lot 164</name><desc>Parking Systems of America | 813 Elm Street, Dallas, TX 75202 | Dallas | 32.7802573,-96.8052355</desc></wpt>
+  <wpt lat="32.780238" lon="-96.805316"><name>Lot 165</name><desc>Parking Systems of America | 801 Elm Street, Dallas, TX 75202 | Dallas | 32.780238,-96.805316</desc></wpt>
+  <wpt lat="32.780278" lon="-96.8055736"><name>Lot 166</name><desc>Parking Systems of America | 211 North Austin Street, Dallas, TX 75202 | Dallas | 32.780278,-96.8055736</desc></wpt>
+  <wpt lat="32.7854041" lon="-96.7835342"><name>Lot 167</name><desc>Parking Systems of America | 2820 Indiana Street, Dallas, TX 75226 | Dallas | 32.7854041,-96.7835342</desc></wpt>
+  <wpt lat="32.7793619" lon="-96.7889114"><name>Lot 170</name><desc>Parking Systems of America | 400 South Cesar Chavez Boulevard, Dallas, TX 75201 | Dallas | 32.7793619,-96.7889114</desc></wpt>
+  <wpt lat="29.4353829" lon="-98.4927804"><name>Lot 1704</name><desc>Parking Systems of America | 220 East Quincy Street, San Antonio, TX 78215 | San Antonio | 29.4353829,-98.4927804</desc></wpt>
+  <wpt lat="32.7855269" lon="-96.7845447"><name>Lot 171</name><desc>Parking Systems of America | 301 North Crowdus Street, Dallas, TX 75226 | Dallas | 32.7855269,-96.7845447</desc></wpt>
+  <wpt lat="29.4177929" lon="-98.4894016"><name>Lot 1712</name><desc>Parking Systems of America | 510 South Presa Street, San Antonio, TX 78205 | San Antonio | 29.4177929,-98.4894016</desc></wpt>
+  <wpt lat="29.4299563" lon="-98.4922114"><name>Lot 1714</name><desc>Parking Systems of America | 203 Convent Street, San Antonio, TX 78205 | San Antonio | 29.4299563,-98.4922114</desc></wpt>
+  <wpt lat="29.4321127" lon="-98.4816523"><name>Lot 1718</name><desc>Parking Systems of America | 815 North Alamo Street, San Antonio, TX 78215 | San Antonio | 29.4321127,-98.4816523</desc></wpt>
+  <wpt lat="29.443425" lon="-98.47544"><name>Lot 1722</name><desc>Parking Systems of America | 1900 North Alamo Street, San Antonio, TX 78215 | San Antonio | 29.443425,-98.47544</desc></wpt>
+  <wpt lat="29.4441375" lon="-98.4750236"><name>Lot 1723</name><desc>Parking Systems of America | 610 East Josephine Street, San Antonio, TX 78215 | San Antonio | 29.4441375,-98.4750236</desc></wpt>
+  <wpt lat="29.422767" lon="-98.483108"><name>Lot 1725</name><desc>Parking Systems of America | 901 East Commerce Street, San Antonio, TX 78205 | San Antonio | 29.422767,-98.483108</desc></wpt>
+  <wpt lat="32.779487" lon="-96.7965886"><name>Lot 18</name><desc>Parking Systems of America | 309 South Ervay Street, Dallas, TX 75201 | Dallas | 32.779487,-96.7965886</desc></wpt>
+  <wpt lat="32.7798762" lon="-96.8070244"><name>Lot 2</name><desc>Parking Systems of America | 609 Elm Street, Dallas, TX 75202 | Dallas | 32.7798762,-96.8070244</desc></wpt>
+  <wpt lat="32.782189" lon="-96.792307"><name>Lot 20</name><desc>Parking Systems of America | 2101 Main Street, Dallas, TX 75201 | Dallas | 32.782189,-96.792307</desc></wpt>
+  <wpt lat="32.7807927" lon="-96.7682189"><name>Lot 201</name><desc>Parking Systems of America | 816 South Second Avenue, Dallas, TX 75226 | Dallas | 32.7807927,-96.7682189</desc></wpt>
+  <wpt lat="32.748101" lon="-96.824801"><name>Lot 202</name><desc>Parking Systems of America | 201 West Eighth Street, Dallas, TX 75208 | Dallas | 32.748101,-96.824801</desc></wpt>
+  <wpt lat="32.8111217" lon="-96.8114627"><name>Lot 203</name><desc>Parking Systems of America | 4015 Cedar Springs Road, Dallas, TX 75219 | Dallas | 32.8111217,-96.8114627</desc></wpt>
+  <wpt lat="32.7828196" lon="-96.7922035"><name>Lot 21</name><desc>Parking Systems of America | 2210 Elm Street, Dallas, TX 75201 | Dallas | 32.7828196,-96.7922035</desc></wpt>
+  <wpt lat="32.783301" lon="-96.787059"><name>Lot 22</name><desc>Parking Systems of America | 2501 Main Street, Dallas, TX 75226 | Dallas | 32.783301,-96.787059</desc></wpt>
+  <wpt lat="32.784038" lon="-96.7909394"><name>Lot 23</name><desc>Parking Systems of America | 2306 Pacific Avenue, Dallas, TX 75201 | Dallas | 32.784038,-96.7909394</desc></wpt>
+  <wpt lat="32.7823858" lon="-96.7828064"><name>Lot 24</name><desc>Parking Systems of America | 2809 Canton Street, Dallas, TX 75226 | Dallas | 32.7823858,-96.7828064</desc></wpt>
+  <wpt lat="32.7820802" lon="-96.7920091"><name>Lot 25</name><desc>Parking Systems of America | 2124 Main Street, Dallas, TX 75201 | Dallas | 32.7820802,-96.7920091</desc></wpt>
+  <wpt lat="32.8238906" lon="-96.7865481"><name>Lot 253</name><desc>Parking Systems of America | 4646 McKinney Avenue, Dallas, TX 75205 | Dallas | 32.8238906,-96.7865481</desc></wpt>
+  <wpt lat="32.7820509" lon="-96.7921554"><name>Lot 26</name><desc>Parking Systems of America | 2110 Main Street, Dallas, TX 75201 | Dallas | 32.7820509,-96.7921554</desc></wpt>
+  <wpt lat="32.784528" lon="-96.7900018"><name>Lot 27</name><desc>Parking Systems of America | 2441 Pacific Avenue, Dallas, TX 75204 | Dallas | 32.784528,-96.7900018</desc></wpt>
+  <wpt lat="31.7602275" lon="-106.4855273"><name>Lot 303 – Wells Fargo Garage</name><desc>Parking Systems of America | 222 North Kansas Street, El Paso, TX 79901 | El Paso | 31.7602275,-106.4855273</desc></wpt>
+  <wpt lat="31.7585741" lon="-106.4869356"><name>Lot 304</name><desc>Parking Systems of America | 401 North Mesa Street, El Paso, TX 79901 | El Paso | 31.7585741,-106.4869356</desc></wpt>
+  <wpt lat="31.7494863" lon="-106.4876597"><name>Lot 305</name><desc>Parking Systems of America | 1007 South Santa Fe Street, El Paso, TX 79901 | El Paso | 31.7494863,-106.4876597</desc></wpt>
+  <wpt lat="31.758725" lon="-106.481419"><name>Lot 309</name><desc>Parking Systems of America | 801 East Overland Avenue, El Paso, TX 79901 | El Paso | 31.758725,-106.481419</desc></wpt>
+  <wpt lat="32.7870999" lon="-96.7913086"><name>Lot 32</name><desc>Parking Systems of America | 2515 Live Oak Street, Dallas, TX 75204 | Dallas | 32.7870999,-96.7913086</desc></wpt>
+  <wpt lat="32.7843372" lon="-96.7754248"><name>Lot 33</name><desc>Parking Systems of America | 3300 Commerce Street, Dallas, TX 75226 | Dallas | 32.7843372,-96.7754248</desc></wpt>
+  <wpt lat="32.7845254" lon="-96.780002"><name>Lot 39</name><desc>Parking Systems of America | 3028 Main Street, Dallas, TX 75226 | Dallas | 32.7845254,-96.780002</desc></wpt>
+  <wpt lat="32.7819142" lon="-96.7691568"><name>Lot 401</name><desc>Parking Systems of America | 808 1st Avenue, Dallas, TX 75226 | Dallas | 32.7819142,-96.7691568</desc></wpt>
+  <wpt lat="32.7829968" lon="-96.7614024"><name>Lot 402</name><desc>Parking Systems of America | 4206 Gurley Avenue, Dallas, TX 75223 | Dallas | 32.7829968,-96.7614024</desc></wpt>
+  <wpt lat="32.780934" lon="-96.76859"><name>Lot 403</name><desc>Parking Systems of America | 3500 Ash Lane, Dallas, TX 75226 | Dallas | 32.780934,-96.76859</desc></wpt>
+  <wpt lat="32.7819142" lon="-96.7691568"><name>Lot 417</name><desc>Parking Systems of America | 730 1st Avenue, Dallas, TX 75226 | Dallas | 32.7819142,-96.7691568</desc></wpt>
+  <wpt lat="32.7812902" lon="-96.7920291"><name>Lot 43</name><desc>Parking Systems of America | 2104 Commerce Street, Dallas, TX 75212 | Dallas | 32.7812902,-96.7920291</desc></wpt>
+  <wpt lat="32.7830241" lon="-96.7473315"><name>Lot 451</name><desc>Parking Systems of America | 1101 South Haskell Avenue, Dallas, TX 75223 | Dallas | 32.7830241,-96.7473315</desc></wpt>
+  <wpt lat="32.78417" lon="-96.762813"><name>Lot 452</name><desc>Parking Systems of America | 1000 Fletcher Street, Dallas, TX 75223 | Dallas | 32.78417,-96.762813</desc></wpt>
+  <wpt lat="32.7843129" lon="-96.7820217"><name>Lot 48</name><desc>Parking Systems of America | 2905 Main Street, Dallas, TX 75226 | Dallas | 32.7843129,-96.7820217</desc></wpt>
+  <wpt lat="32.7970336" lon="-96.7910084"><name>Lot 5</name><desc>Parking Systems of America | 1001 North Hall Street, Dallas, TX 75204 | Dallas | 32.7970336,-96.7910084</desc></wpt>
+  <wpt lat="31.7573136" lon="-106.4891598"><name>Lot 501 – San Antonio Garage</name><desc>Parking Systems of America | 120 West San Antonio Avenue, El Paso, TX 79901 | El Paso | 31.7573136,-106.4891598</desc></wpt>
+  <wpt lat="31.7569765" lon="-106.4865147"><name>Lot 516</name><desc>Parking Systems of America | 216 South Mesa Street, El Paso, TX 79901 | El Paso | 31.7569765,-106.4865147</desc></wpt>
+  <wpt lat="32.7833087" lon="-96.7814912"><name>Lot 52</name><desc>Parking Systems of America | 2904 Commerce Street, Dallas, TX 75226 | Dallas | 32.7833087,-96.7814912</desc></wpt>
+  <wpt lat="32.7843328" lon="-96.781911"><name>Lot 53</name><desc>Parking Systems of America | 2913 Main Street, Dallas, TX 75226 | Dallas | 32.7843328,-96.781911</desc></wpt>
+  <wpt lat="32.7857507" lon="-96.7810018"><name>Lot 54</name><desc>Parking Systems of America | 264 North Walton Street, Dallas, TX 75226 | Dallas | 32.7857507,-96.7810018</desc></wpt>
+  <wpt lat="32.7846569" lon="-96.7842228"><name>Lot 55</name><desc>Parking Systems of America | 2767 Elm Street, Dallas, TX 75226 | Dallas | 32.7846569,-96.7842228</desc></wpt>
+  <wpt lat="32.785805" lon="-96.774955"><name>Lot 56</name><desc>Parking Systems of America | 100 North Exposition Avenue, Dallas, TX 75226 | Dallas | 32.785805,-96.774955</desc></wpt>
+  <wpt lat="32.7850687" lon="-96.7820634"><name>Lot 57</name><desc>Parking Systems of America | 2927 Elm Street, Dallas, TX 75226 | Dallas | 32.7850687,-96.7820634</desc></wpt>
+  <wpt lat="32.7850216" lon="-96.7823474"><name>Lot 58</name><desc>Parking Systems of America | 2905 Elm Street, Dallas, TX 75226 | Dallas | 32.7850216,-96.7823474</desc></wpt>
+  <wpt lat="31.7678287" lon="-106.4731951"><name>Lot 6005</name><desc>Parking Systems of America | 223 Texas Avenue, El Paso, TX 79901 | El Paso | 31.7678287,-106.4731951</desc></wpt>
+  <wpt lat="31.7570302" lon="-106.4875309"><name>Lot 6007</name><desc>Parking Systems of America | 222 South Oregon Street, El Paso, TX 79901 | El Paso | 31.7570302,-106.4875309</desc></wpt>
+  <wpt lat="31.7576652" lon="-106.4846336"><name>Lot 6008</name><desc>Parking Systems of America | 207 South Kansas Street, El Paso, TX 79901 | El Paso | 31.7576652,-106.4846336</desc></wpt>
+  <wpt lat="31.7576007" lon="-106.484613"><name>Lot 6009</name><desc>Parking Systems of America | 217 South Kansas Street, El Paso, TX 79901 | El Paso | 31.7576007,-106.484613</desc></wpt>
+  <wpt lat="31.7587425" lon="-106.4848147"><name>Lot 6026 – Plaza North Lot</name><desc>Parking Systems of America | 100 East San Antonio Avenue, El Paso, TX 79901 | El Paso | 31.7587425,-106.4848147</desc></wpt>
+  <wpt lat="31.7602377" lon="-106.4896065"><name>Lot 6028</name><desc>Parking Systems of America | 417 North Oregon Street, El Paso, TX 79901 | El Paso | 31.7602377,-106.4896065</desc></wpt>
+  <wpt lat="31.758975" lon="-106.480318"><name>Lot 6056</name><desc>Parking Systems of America | 911 East Overland Avenue, El Paso, TX 79901 | El Paso | 31.758975,-106.480318</desc></wpt>
+  <wpt lat="31.7589402" lon="-106.4828221"><name>Lot 6059</name><desc>Parking Systems of America | 125 South Florence Street, El Paso, TX 79901 | El Paso | 31.7589402,-106.4828221</desc></wpt>
+  <wpt lat="31.761579" lon="-106.482751"><name>Lot 6107</name><desc>Parking Systems of America | 700 Texas Avenue, El Paso, TX 79901 | El Paso | 31.761579,-106.482751</desc></wpt>
+  <wpt lat="31.752025" lon="-106.484875"><name>Lot 6118</name><desc>Parking Systems of America | 800 South Mesa Street, El Paso, TX 79901 | El Paso | 31.752025,-106.484875</desc></wpt>
+  <wpt lat="32.7853265" lon="-96.7750026"><name>Lot 62</name><desc>Parking Systems of America | 3435 Commerce Street, Dallas, TX 75226 | Dallas | 32.7853265,-96.7750026</desc></wpt>
+  <wpt lat="31.760669" lon="-106.480627"><name>Lot 6201</name><desc>Parking Systems of America | 800 Magoffin Avenue, El Paso, TX 79901 | El Paso | 31.760669,-106.480627</desc></wpt>
+  <wpt lat="31.7571908" lon="-106.4854871"><name>Lot 6206</name><desc>Parking Systems of America | 310 South Stanton Street, El Paso, TX 79901 | El Paso | 31.7571908,-106.4854871</desc></wpt>
+  <wpt lat="32.782988" lon="-96.7796771"><name>Lot 65</name><desc>Parking Systems of America / Platinum Parking | 3023 Canton Street, Dallas, TX 75226 | Dallas | 32.782988,-96.7796771</desc></wpt>
+  <wpt lat="32.7835896" lon="-96.7857372"><name>Lot 68</name><desc>Parking Systems of America | 2627 Main Street, Dallas, TX 75226 | Dallas | 32.7835896,-96.7857372</desc></wpt>
+  <wpt lat="31.7577686" lon="-106.485319"><name>Lot 6901</name><desc>Parking Systems of America | 425 East Overland Avenue, El Paso, TX 79901 | El Paso | 31.7577686,-106.485319</desc></wpt>
+  <wpt lat="31.760987" lon="-106.482222"><name>Lot 6902</name><desc>Parking Systems of America | 701 Myrtle Avenue, El Paso, TX 79901 | El Paso | 31.760987,-106.482222</desc></wpt>
+  <wpt lat="31.7502878" lon="-106.487905"><name>Lot 6904</name><desc>Parking Systems of America | 920 South Santa Fe Street, El Paso, TX 79901 | El Paso | 31.7502878,-106.487905</desc></wpt>
+  <wpt lat="31.7576626" lon="-106.4939819"><name>Lot 6905</name><desc>Parking Systems of America | 700 West San Francisco Avenue, El Paso, TX 79901 | El Paso | 31.7576626,-106.4939819</desc></wpt>
+  <wpt lat="31.751709" lon="-106.4826792"><name>Lot 6906</name><desc>Parking Systems of America | 302 East 7th Avenue, El Paso, TX 79901 | El Paso | 31.751709,-106.4826792</desc></wpt>
+  <wpt lat="31.7555657" lon="-106.489355"><name>Lot 6907</name><desc>Parking Systems of America | 360 South Santa Fe Street, El Paso, TX 79901 | El Paso | 31.7555657,-106.489355</desc></wpt>
+  <wpt lat="31.755518" lon="-106.487258"><name>Lot 6909</name><desc>Parking Systems of America | 399 South Oregon Street, El Paso, TX 79901 | El Paso | 31.755518,-106.487258</desc></wpt>
+  <wpt lat="31.7553206" lon="-106.4861006"><name>Lot 6910</name><desc>Parking Systems of America | 415 South Mesa Street, El Paso, TX 79901 | El Paso | 31.7553206,-106.4861006</desc></wpt>
+  <wpt lat="31.7615699" lon="-106.489167"><name>Lot 6911</name><desc>Parking Systems of America | 500 North Mesa Street, El Paso, TX 79901 | El Paso | 31.7615699,-106.489167</desc></wpt>
+  <wpt lat="31.7642748" lon="-106.4788762"><name>Lot 6913</name><desc>Parking Systems of America | 1125 Texas Avenue, El Paso, TX 79901 | El Paso | 31.7642748,-106.4788762</desc></wpt>
+  <wpt lat="31.776824" lon="-106.50181"><name>Lot 6914</name><desc>Parking Systems of America | 2601 North Stanton Street, El Paso, TX 79902 | El Paso | 31.776824,-106.50181</desc></wpt>
+  <wpt lat="31.7606705" lon="-106.4899848"><name>Lot 6915</name><desc>Parking Systems of America | 510 North Oregon Street, El Paso, TX 79901 | El Paso | 31.7606705,-106.4899848</desc></wpt>
+  <wpt lat="32.78569" lon="-96.789838"><name>Lot 70</name><desc>Parking Systems of America | 2501 Swiss Avenue, Dallas, TX 75204 | Dallas | 32.78569,-96.789838</desc></wpt>
+  <wpt lat="32.7304384" lon="-97.3382887"><name>Lot 700 – Pennsylvania</name><desc>Parking Systems of America | 1227 West Magnolia Avenue, Fort Worth, TX 76104 | Fort Worth | 32.7304384,-97.3382887</desc></wpt>
+  <wpt lat="32.7781036" lon="-96.7952662"><name>Lot 73</name><desc>Parking Systems of America | 1720 Young Street, Dallas, TX 75201 | Dallas | 32.7781036,-96.7952662</desc></wpt>
+  <wpt lat="32.7857921" lon="-96.7878797"><name>Lot 74</name><desc>Parking Systems of America | 2602 Floyd Street, Dallas, TX 75204 | Dallas | 32.7857921,-96.7878797</desc></wpt>
+  <wpt lat="32.7847372" lon="-96.789359"><name>Lot 75</name><desc>Parking Systems of America | 2525 Pacific Avenue, Dallas, TX 75226 | Dallas | 32.7847372,-96.789359</desc></wpt>
+  <wpt lat="32.7859213" lon="-96.7880035"><name>Lot 76</name><desc>Parking Systems of America | 2605 Floyd Street, Dallas, TX 75204 | Dallas | 32.7859213,-96.7880035</desc></wpt>
+  <wpt lat="32.7743158" lon="-96.7967336"><name>Lot 77</name><desc>Parking Systems of America | 811 South Akard Street, Dallas, TX 75202 | Dallas | 32.7743158,-96.7967336</desc></wpt>
+  <wpt lat="32.7885351" lon="-96.7918291"><name>Lot 78</name><desc>Parking Systems of America | 302 North Good Latimer Expressway, Dallas, TX 75204 | Dallas | 32.7885351,-96.7918291</desc></wpt>
+  <wpt lat="32.7765383" lon="-96.7954634"><name>Lot 81</name><desc>Parking Systems of America | 702 South Ervay Street, Dallas, TX 75201 | Dallas | 32.7765383,-96.7954634</desc></wpt>
+  <wpt lat="32.791837" lon="-96.807963"><name>Lot 82</name><desc>Parking Systems of America | 1800 Payne Street, Dallas, TX 75201 | Dallas | 32.791837,-96.807963</desc></wpt>
+  <wpt lat="32.7867452" lon="-97.3515256"><name>Lot 900</name><desc>Parking Systems of America | 2322 North Houston Street, Fort Worth, TX 76164 | Fort Worth | 32.7867452,-97.3515256</desc></wpt>
+  <wpt lat="32.7873796" lon="-97.3504827"><name>Lot 901 – Houston Lower</name><desc>Parking Systems of America | 2319 Ellis Avenue, Fort Worth, TX 76164 | Fort Worth | 32.7873796,-97.3504827</desc></wpt>
+  <wpt lat="32.7510669" lon="-97.326607"><name>Lot 902 – Convention Center</name><desc>Parking Systems of America | 1207 Calhoun Street, Fort Worth, TX 76102 | Fort Worth | 32.7510669,-97.326607</desc></wpt>
+  <wpt lat="32.7529147" lon="-97.3551604"><name>Lot 903</name><desc>Parking Systems of America | 2725 West 5th Street, Fort Worth, TX 76107 | Fort Worth | 32.7529147,-97.3551604</desc></wpt>
+  <wpt lat="32.7390035" lon="-97.3390285"><name>Lot 904 Pennsylvania</name><desc>Parking Systems of America | 1220 Pennsylvania Avenue, Fort Worth, TX 76104 | Fort Worth | 32.7390035,-97.3390285</desc></wpt>
+  <wpt lat="32.789987" lon="-97.349272"><name>Lot 909 – Marine Creek</name><desc>Parking Systems of America | 100 Northwest 25th Street, Fort Worth, TX 76164 | Fort Worth | 32.789987,-97.349272</desc></wpt>
+  <wpt lat="32.7878836" lon="-97.3495153"><name>Lot 929 – Kerby A</name><desc>Parking Systems of America | 2341 North Main Street, Fort Worth, TX 76164 | Fort Worth | 32.7878836,-97.3495153</desc></wpt>
+  <wpt lat="32.7878453" lon="-97.3498875"><name>Lot 929 – Kerby B</name><desc>Parking Systems of America | 111 Northwest 24th Street, Fort Worth, TX 76164 | Fort Worth | 32.7878453,-97.3498875</desc></wpt>
+  <wpt lat="32.7890694" lon="-97.3515049"><name>Lot 930 – Rodeo Exchange</name><desc>Parking Systems of America | 2410 North Houston Street, Fort Worth, TX 76164 | Fort Worth | 32.7890694,-97.3515049</desc></wpt>
+  <wpt lat="32.788802" lon="-97.350467"><name>Lot 937 – Horseshoe Hill</name><desc>Parking Systems of America | 2457 Ellis Avenue, Fort Worth, TX 76164 | Fort Worth | 32.788802,-97.350467</desc></wpt>
+  <wpt lat="32.7567449" lon="-97.333947"><name>Lot 941 – Cass</name><desc>Parking Systems of America | 208 West Weatherford Street, Fort Worth, TX 76102 | Fort Worth | 32.7567449,-97.333947</desc></wpt>
+  <wpt lat="32.7484298" lon="-97.3312259"><name>Lot 942 – Harold</name><desc>Parking Systems of America | 1024 Monroe Street, Fort Worth, TX 76102 | Fort Worth | 32.7484298,-97.3312259</desc></wpt>
+  <wpt lat="32.7749617" lon="-96.7959935"><name>Lot 95</name><desc>Parking Systems of America | 807 Browder Street, Dallas, TX 75202 | Dallas | 32.7749617,-96.7959935</desc></wpt>
+  <wpt lat="32.7312134" lon="-97.3387838"><name>Lot 952 – Mundailer</name><desc>Parking Systems of America | 1220 5th Avenue, Fort Worth, TX 76104 | Fort Worth | 32.7312134,-97.3387838</desc></wpt>
+  <wpt lat="32.7857537" lon="-97.3500468"><name>Lot 953 – Goodwin</name><desc>Parking Systems of America | 2220 Ellis Avenue, Fort Worth, TX 76164 | Fort Worth | 32.7857537,-97.3500468</desc></wpt>
+  <wpt lat="32.7898338" lon="-97.3514115"><name>Lot 954 – Sam’s Saloon</name><desc>Parking Systems of America | 295 Northwest 25th Street, Fort Worth, TX 76164 | Fort Worth | 32.7898338,-97.3514115</desc></wpt>
+  <wpt lat="32.7891044" lon="-97.351816"><name>Lot 956 – Pearl’s</name><desc>Parking Systems of America | 300 West Exchange Avenue, Fort Worth, TX 76164 | Fort Worth | 32.7891044,-97.351816</desc></wpt>
+  <wpt lat="32.7894627" lon="-97.3513441"><name>Lot 957 – North Houston</name><desc>Parking Systems of America | 2456 North Houston Street, Fort Worth, TX 76164 | Fort Worth | 32.7894627,-97.3513441</desc></wpt>
+  <wpt lat="32.7919772" lon="-97.3499381"><name>Lot 959</name><desc>Parking Systems of America | 2601 North Main Street, Fort Worth, TX 76164 | Fort Worth | 32.7919772,-97.3499381</desc></wpt>
+  <wpt lat="32.778956" lon="-96.7963425"><name>Lot 97</name><desc>Parking Systems of America | 1706 Wood Street, Dallas, TX 75201 | Dallas | 32.778956,-96.7963425</desc></wpt>
+  <wpt lat="32.7975471" lon="-96.8218071"><name>Lot 99</name><desc>Parking Systems of America | 1925 Hi Line Drive, Dallas, TX 75207 | Dallas | 32.7975471,-96.8218071</desc></wpt>
+  <wpt lat="32.7891063" lon="-97.3494139"><name>Lot 995 – Leddy’s Lower</name><desc>Parking Systems of America | 2455 North Main Street, Fort Worth, TX 76164 | Fort Worth | 32.7891063,-97.3494139</desc></wpt>
+  <wpt lat="32.7885549" lon="-97.3502749"><name>Lot 996 – Leddy’s Upper</name><desc>Parking Systems of America | 2458 Ellis Avenue, Fort Worth, TX 76164 | Fort Worth | 32.7885549,-97.3502749</desc></wpt>
+  <wpt lat="32.7380656" lon="-97.0955119"><name>Lot 997</name><desc>Parking Systems of America | 1008 Harrison Avenue, Arlington, TX 76011 | Arlington | 32.7380656,-97.0955119</desc></wpt>
+  <wpt lat="32.8035426" lon="-96.8013816"><name>M – Line Tower Garage</name><desc>Parking Systems of America | 2690 Bowen Street, Dallas, TX 75204 | Dallas | 32.8035426,-96.8013816</desc></wpt>
+  <wpt lat="29.7093604" lon="-95.4014478"><name>Medical Towers Garage @ 1709 Dryden</name><desc>Parking Systems of America | 6622 Fannin Street, Houston, TX 77030 | Houston | 29.7093604,-95.4014478</desc></wpt>
+  <wpt lat="32.7809775" lon="-96.8009765"><name>Metropolitan Garage</name><desc>Parking Systems of America | 1310 Elm Street, Dallas, TX 75202 | Dallas | 32.7809775,-96.8009765</desc></wpt>
+  <wpt lat="31.760247" lon="-106.489855"><name>Mills Garage</name><desc>Parking Systems of America | 401 North Oregon Street, El Paso, TX 79901 | El Paso | 31.760247,-106.489855</desc></wpt>
+  <wpt lat="32.780432" lon="-96.7657831"><name>Music Hall at Fair Park</name><desc>Parking Systems of America | 909 1st Avenue, Dallas, TX 75210 | Dallas | 32.780432,-96.7657831</desc></wpt>
+  <wpt lat="30.2545" lon="-97.747756"><name>Music Lane</name><desc>Parking Systems of America | 1011 South Congress Avenue, Austin, TX 78704 | Austin | 30.2545,-97.747756</desc></wpt>
+  <wpt lat="31.7609364" lon="-106.4883505"><name>OSJ Garage</name><desc>Parking Systems of America | 201 East Main Street, El Paso, TX 79901 | El Paso | 31.7609364,-106.4883505</desc></wpt>
+  <wpt lat="32.7447368" lon="-97.0974939"><name>PCA Auto Lot</name><desc>Parking Systems of America | 612 North Collins Street, Arlington, TX 76011 | Arlington | 32.7447368,-97.0974939</desc></wpt>
+  <wpt lat="32.7510643" lon="-97.0978983"><name>PCA Walgreens Lot</name><desc>Parking Systems of America | 1020 North Collins Street, Arlington, TX 76011 | Arlington | 32.7510643,-97.0978983</desc></wpt>
+  <wpt lat="31.7586483" lon="-106.4888563"><name>Plaza Hotel – Valet Service</name><desc>Parking Systems of America | 106 West Mills Avenue, El Paso, TX 79901 | El Paso | 31.7586483,-106.4888563</desc></wpt>
+  <wpt lat="32.8420769" lon="-96.7834368"><name>Southern Methodist University</name><desc>Parking Systems of America | 5800 Ownby Drive, Dallas, TX 75205 | Dallas | 32.8420769,-96.7834368</desc></wpt>
+  <wpt lat="32.7869094" lon="-97.3494472"><name>Springhill Suites Hotel</name><desc>Parking Systems of America | 2315 North Main Street, Fort Worth, TX 76164 | Fort Worth | 32.7869094,-97.3494472</desc></wpt>
+  <wpt lat="29.7585099" lon="-95.3622858"><name>Star Garage</name><desc>Parking Systems of America | 703 Fannin Street, Houston, TX 77002 | Houston | 29.7585099,-95.3622858</desc></wpt>
+  <wpt lat="32.8831684" lon="-96.7617787"><name>Texas Health Presbyterian Hospital</name><desc>Parking Systems of America | 8230 Walnut Hill Lane, Dallas, TX 75231 | Dallas | 32.8831684,-96.7617787</desc></wpt>
+  <wpt lat="32.827582" lon="-97.1267026"><name>Texas Heart and Vascular – Valet</name><desc>Parking Systems of America | 1400 Hospital Parkway, Bedford, TX 76022 | Bedford | 32.827582,-97.1267026</desc></wpt>
+  <wpt lat="30.255747" lon="-97.7459497"><name>The Crescent Apartments</name><desc>Parking Systems of America | 127 East Riverside Drive, Austin, TX 78704 | Austin | 30.255747,-97.7459497</desc></wpt>
+  <wpt lat="32.7803795" lon="-96.8008073"><name>The Drakestone</name><desc>Parking Systems of America | 1309 Main Street, Dallas, TX 75202 | Dallas | 32.7803795,-96.8008073</desc></wpt>
+  <wpt lat="32.7906462" lon="-96.8144355"><name>The Echo Lounge and Music Hall</name><desc>Parking Systems of America | 1323 North Stemmons Freeway, Dallas, TX 75207 | Dallas | 32.7906462,-96.8144355</desc></wpt>
+  <wpt lat="32.780438" lon="-96.7983821"><name>The Joule Hotel</name><desc>Parking Systems of America | 1530 Main Street, Dallas, TX 75201 | Dallas | 32.780438,-96.7983821</desc></wpt>
+  <wpt lat="30.2516555" lon="-97.7485315"><name>The Lola Apartments</name><desc>Parking Systems of America | 1221 South Congress Avenue, Austin, TX 78704 | Austin | 30.2516555,-97.7485315</desc></wpt>
+  <wpt lat="30.2538199" lon="-97.7477362"><name>The Muse</name><desc>Parking Systems of America | 1007 South Congress Avenue, Austin, TX 78704 | Austin | 30.2538199,-97.7477362</desc></wpt>
+  <wpt lat="32.7815473" lon="-96.8005791"><name>The National Garage</name><desc>Parking Systems of America | 1401 Elm Street, Dallas, TX 75202 | Dallas | 32.7815473,-96.8005791</desc></wpt>
+  <wpt lat="32.872475" lon="-96.770747"><name>The Pyramids</name><desc>Parking Systems of America | 9201 North Central Expressway, Dallas, TX 75225 | Dallas | 32.872475,-96.770747</desc></wpt>
+  <wpt lat="32.7919346" lon="-96.8032609"><name>The Ritz-Carlton Dallas</name><desc>Parking Systems of America | 2121 McKinney Avenue, Dallas, TX 75201 | Dallas | 32.7919346,-96.8032609</desc></wpt>
+  <wpt lat="32.7814617" lon="-96.7998584"><name>Thompson Hotel</name><desc>Parking Systems of America | 205 North Akard Street, Dallas, TX 75201 | Dallas | 32.7814617,-96.7998584</desc></wpt>
+  <wpt lat="33.2115486" lon="-97.1460082"><name>University of North Texas</name><desc>Parking Systems of America | 115 Union Cir, Denton, TX | Denton | 33.2115486,-97.1460082</desc></wpt>
+  <wpt lat="32.7932163" lon="-96.8022155"><name>Uptown Garage – Lot 89</name><desc>Parking Systems of America | 2222 McKinney Avenue, Dallas, TX 75201 | Dallas | 32.7932163,-96.8022155</desc></wpt>
+  <wpt lat="32.7963769" lon="-96.8222103"><name>Virgin Hotel</name><desc>Parking Systems of America | 1445 Turtle Creek Boulevard, Dallas, TX 75207 | Dallas | 32.7963769,-96.8222103</desc></wpt>
+  <wpt lat="30.283316" lon="-97.74058"><name>Whitis Lot</name><desc>Parking Systems of America | 2011 Whitis Avenue, Austin, TX 78705 | Austin | 30.283316,-97.74058</desc></wpt>
+  <wpt lat="30.264546" lon="-97.729937"><name>1204 E 6th Street</name><desc>Platinum Parking | 1204 East 6th Street, Austin, TX 78702 | Austin | 30.264546,-97.729937</desc></wpt>
+  <wpt lat="29.7534328" lon="-95.365798"><name>1301 Fannin Garage</name><desc>Platinum Parking | 1301 Fannin Street, Houston, TX 77002 | Houston | 29.7534328,-95.365798</desc></wpt>
+  <wpt lat="32.777217" lon="-96.799922"><name>1301 Young Street</name><desc>Platinum Parking | 1301 Young Street, Dallas, TX 75202 | Dallas | 32.777217,-96.799922</desc></wpt>
+  <wpt lat="29.755099" lon="-95.359844"><name>1501 Walker Garage</name><desc>Platinum Parking | 1501 Walker Street, Houston, TX 77010 | Houston | 29.755099,-95.359844</desc></wpt>
+  <wpt lat="29.7450409" lon="-95.45706"><name>1700 West Loop South</name><desc>Platinum Parking | 1700 West Loop South, Houston, TX 77027 | Houston | 29.7450409,-95.45706</desc></wpt>
+  <wpt lat="32.779604" lon="-96.7964926"><name>1710 Jackson</name><desc>Platinum Parking | 1710 Jackson Street, Dallas, TX 75201 | Dallas | 32.779604,-96.7964926</desc></wpt>
+  <wpt lat="32.7783678" lon="-96.7948473"><name>1715 Young</name><desc>Platinum Parking | 1715 Young Street, Dallas, TX 75201 | Dallas | 32.7783678,-96.7948473</desc></wpt>
+  <wpt lat="32.778994" lon="-96.7961632"><name>1720 Wood</name><desc>Platinum Parking | 1720 Wood Street, Dallas, TX 75201 | Dallas | 32.778994,-96.7961632</desc></wpt>
+  <wpt lat="32.7792955" lon="-96.7947557"><name>1818 Wood St</name><desc>Platinum Parking | 1818 Wood Street, Dallas, TX 75201 | Dallas | 32.7792955,-96.7947557</desc></wpt>
+  <wpt lat="32.7772488" lon="-96.7921248"><name>1909 Cadiz</name><desc>Platinum Parking | 1909 Cadiz Street, Dallas, TX 75201 | Dallas | 32.7772488,-96.7921248</desc></wpt>
+  <wpt lat="32.7705628" lon="-96.7993848"><name>199 218 S Lamar</name><desc>Platinum Parking | 1005 South Lamar Street, Dallas, TX 75202 | Dallas | 32.7705628,-96.7993848</desc></wpt>
+  <wpt lat="32.786958" lon="-96.799066"><name>2000 Ross Avenue Garage</name><desc>Platinum Parking | 2000 Ross Avenue, Dallas, TX 75201 | Dallas | 32.786958,-96.799066</desc></wpt>
+  <wpt lat="32.780989" lon="-96.7935151"><name>2020 Commerce Street</name><desc>Platinum Parking | 2020 Commerce Street, Dallas, TX 75201 | Dallas | 32.780989,-96.7935151</desc></wpt>
+  <wpt lat="32.7874484" lon="-96.7975336"><name>2100 Ross Ave</name><desc>Platinum Parking | 2100 Ross Avenue, Dallas, TX 75201 | Dallas | 32.7874484,-96.7975336</desc></wpt>
+  <wpt lat="32.7833894" lon="-96.7933406"><name>2104 Pacific Ave</name><desc>Platinum Parking | 2108 Pacific Avenue, Dallas, TX 75201 | Dallas | 32.7833894,-96.7933406</desc></wpt>
+  <wpt lat="29.4267463" lon="-98.4974989"><name>2106 Waugh</name><desc>Platinum Parking | 343 West Houston Street, San Antonio, TX 78205 | San Antonio | 29.4267463,-98.4974989</desc></wpt>
+  <wpt lat="32.7957708" lon="-96.8059845"><name>23 Springs</name><desc>Platinum Parking | 2323 Cedar Springs Road, Dallas, TX 75201 | Dallas | 32.7957708,-96.8059845</desc></wpt>
+  <wpt lat="32.7964306" lon="-96.8052421"><name>2401 Cedar Springs</name><desc>Platinum Parking | 2401 Cedar Springs Road, Dallas, TX 75201 | Dallas | 32.7964306,-96.8052421</desc></wpt>
+  <wpt lat="32.7484494" lon="-97.3571468"><name>2800 Bledsoe</name><desc>Platinum Parking | 2800 Bledsoe Street, Fort Worth, TX 76107 | Fort Worth | 32.7484494,-97.3571468</desc></wpt>
+  <wpt lat="32.7491528" lon="-97.3570895"><name>2829 Morton</name><desc>Platinum Parking | 2829 Morton Street, Fort Worth, TX 76107 | Fort Worth | 32.7491528,-97.3570895</desc></wpt>
+  <wpt lat="32.7545164" lon="-97.3338446"><name>300 Throckmorton St – Valet</name><desc>Platinum Parking | 300 Throckmorton Street, Fort Worth, TX 76102 | Fort Worth | 32.7545164,-97.3338446</desc></wpt>
+  <wpt lat="29.7338801" lon="-95.4628605"><name>3050 Post Oak Garage</name><desc>Platinum Parking | 3050 Post Oak Boulevard, Houston, TX 77056 | Houston | 29.7338801,-95.4628605</desc></wpt>
+  <wpt lat="32.7486988" lon="-97.3313492"><name>309 Texas Street</name><desc>Platinum Parking | 309 Texas Street, Fort Worth, TX 76102 | Fort Worth | 32.7486988,-97.3313492</desc></wpt>
+  <wpt lat="29.7599691" lon="-95.3573245"><name>311 Austin</name><desc>Platinum Parking | 311 Austin Street, Houston, TX 77002 | Houston | 29.7599691,-95.3573245</desc></wpt>
+  <wpt lat="32.7788532" lon="-96.7964493"><name>404 S. Ervay</name><desc>Platinum Parking | 404 South Ervay Street, Dallas, TX 75201 | Dallas | 32.7788532,-96.7964493</desc></wpt>
+  <wpt lat="32.7788214" lon="-96.7964395"><name>408 S. Ervay</name><desc>Platinum Parking | 408 South Ervay Street, Dallas, TX 75201 | Dallas | 32.7788214,-96.7964395</desc></wpt>
+  <wpt lat="30.2673431" lon="-97.7450013"><name>5th and Colorado</name><desc>Platinum Parking | 201 West 5th Street, Austin, TX 78701 | Austin | 30.2673431,-97.7450013</desc></wpt>
+  <wpt lat="29.5125535" lon="-98.57525"><name>7930 Floyd Curl Dr.</name><desc>Platinum Parking | 7930 Floyd Curl Drive, San Antonio, TX 78229 | San Antonio | 29.5125535,-98.57525</desc></wpt>
+  <wpt lat="32.7495278" lon="-97.3569116"><name>7th St Lots.- Surface Lot</name><desc>Platinum Parking | 920 Foch Street, Fort Worth, TX 76107 | Fort Worth | 32.7495278,-97.3569116</desc></wpt>
+  <wpt lat="32.7819569" lon="-96.8050346"><name>912 Ross</name><desc>Platinum Parking | 912 Ross Ave, Dallas, TX | Dallas | 32.7819569,-96.8050346</desc></wpt>
+  <wpt lat="30.2914625" lon="-97.7393352"><name>All Saints Episcopal Church</name><desc>Platinum Parking | 209 West 27th Street, Austin, TX 78705 | Austin | 30.2914625,-97.7393352</desc></wpt>
+  <wpt lat="30.288157" lon="-97.7416076"><name>Austin – UUMC Lot</name><desc>Platinum Parking | 2438 Guadalupe Street, Austin, TX 78705 | Austin | 30.288157,-97.7416076</desc></wpt>
+  <wpt lat="32.7864098" lon="-96.7969368"><name>Bryan Tower Garage</name><desc>Platinum Parking | 719 Olive Street, Dallas, TX 75201 | Dallas | 32.7864098,-96.7969368</desc></wpt>
+  <wpt lat="32.7998834" lon="-96.8011519"><name>BT Parks</name><desc>Platinum Parking | 2909 McKinney Avenue, Dallas, TX 75204 | Dallas | 32.7998834,-96.8011519</desc></wpt>
+  <wpt lat="32.782567" lon="-96.794219"><name>Cain Foundation</name><desc>Platinum Parking | 2001 Elm Street, Dallas, TX 75201 | Dallas | 32.782567,-96.794219</desc></wpt>
+  <wpt lat="32.7576636" lon="-97.3307232"><name>Calhoun Parking Garage</name><desc>Platinum Parking | 101 Calhoun Street, Fort Worth, TX 76102 | Fort Worth | 32.7576636,-97.3307232</desc></wpt>
+  <wpt lat="32.7517794" lon="-97.3549224"><name>Carroll St</name><desc>Platinum Parking | 700 Carroll Street, Fort Worth, TX 76107 | Fort Worth | 32.7517794,-97.3549224</desc></wpt>
+  <wpt lat="32.8094783" lon="-96.8375466"><name>Childern`s Green Garage</name><desc>Platinum Parking | 1935 Medical District Drive, Dallas, TX 75235 | Dallas | 32.8094783,-96.8375466</desc></wpt>
+  <wpt lat="33.0792225" lon="-96.8013951"><name>Children’s Plano Valet</name><desc>Platinum Parking | 7601 Preston Road, Plano, TX 75024 | Plano | 33.0792225,-96.8013951</desc></wpt>
+  <wpt lat="32.8029348" lon="-96.8337939"><name>Children’s Purple Garage</name><desc>Platinum Parking | 2350 North Stemmons Freeway, Dallas, TX 75207 | Dallas | 32.8029348,-96.8337939</desc></wpt>
+  <wpt lat="32.7522121" lon="-97.3317036"><name>City Place Center</name><desc>Platinum Parking | 100 Throckmorton Street, Fort Worth, TX 76102 | Fort Worth | 32.7522121,-97.3317036</desc></wpt>
+  <wpt lat="32.8065566" lon="-96.7914277"><name>City Place Tower</name><desc>Platinum Parking | 2711 North Haskell Avenue, Dallas, TX 75204 | Dallas | 32.8065566,-96.7914277</desc></wpt>
+  <wpt lat="32.7886679" lon="-96.7950875"><name>Crockett Park 2402</name><desc>Platinum Parking | 2402 San Jacinto Street, Dallas, TX 75201 | Dallas | 32.7886679,-96.7950875</desc></wpt>
+  <wpt lat="32.7879162" lon="-96.795243"><name>Crockett Park 734</name><desc>Platinum Parking | 734 Crockett Street, Dallas, TX 75201 | Dallas | 32.7879162,-96.795243</desc></wpt>
+  <wpt lat="32.7808296" lon="-96.8079523"><name>Dallas Holocaust Museum</name><desc>Platinum Parking | 300 North Houston Street, Dallas, TX 75202 | Dallas | 32.7808296,-96.8079523</desc></wpt>
+  <wpt lat="29.7593456" lon="-95.3653896"><name>Esperson Garage</name><desc>Platinum Parking | 806 Rusk Street, Houston, TX 77002 | Houston | 29.7593456,-95.3653896</desc></wpt>
+  <wpt lat="32.7853411" lon="-96.796975"><name>Federal &amp; Olive Lot</name><desc>Platinum Parking | 2015 Federal Street, Dallas, TX 75201 | Dallas | 32.7853411,-96.796975</desc></wpt>
+  <wpt lat="32.7791409" lon="-96.7936629"><name>First Presbyterian Church Dallas</name><desc>Platinum Parking | 1835 Young Street, Dallas, TX 75201 | Dallas | 32.7791409,-96.7936629</desc></wpt>
+  <wpt lat="32.7496033" lon="-97.3582078"><name>Freds Lot</name><desc>Platinum Parking | 915 Currie Street, Fort Worth, TX 76107 | Fort Worth | 32.7496033,-97.3582078</desc></wpt>
+  <wpt lat="30.2745012" lon="-97.7432483"><name>Granger Garage</name><desc>Platinum Parking | 307 West 12th Street, Austin, TX 78701 | Austin | 30.2745012,-97.7432483</desc></wpt>
+  <wpt lat="32.7792817" lon="-96.8029258"><name>Griffin Auto Park</name><desc>Platinum Parking | 400 South Griffin Street, Dallas, TX 75202 | Dallas | 32.7792817,-96.8029258</desc></wpt>
+  <wpt lat="32.7770441" lon="-96.8023318"><name>Griffin Auto Park</name><desc>Platinum Parking | 1002 Wood Street, Dallas, TX 75202 | Dallas | 32.7770441,-96.8023318</desc></wpt>
+  <wpt lat="32.790275" lon="-96.795136"><name>Hawkins Park</name><desc>Platinum Parking | 2500 Ross Avenue, Dallas, TX | Dallas | 32.790275,-96.795136</desc></wpt>
+  <wpt lat="29.7657212" lon="-95.4565686"><name>Houston Arboretum</name><desc>Platinum Parking | 4501 Woodway Drive, Houston, TX 77024 | Houston | 29.7657212,-95.4565686</desc></wpt>
+  <wpt lat="32.7873044" lon="-96.7795596"><name>801 North Hall Street (directory title: Incorrect)</name><desc>Platinum Parking | 801 North Hall Street, Dallas, TX 75246 | Dallas | 32.7873044,-96.7795596</desc></wpt>
+  <wpt lat="32.7824816" lon="-96.7811361"><name>Indie Deep Ellum</name><desc>Platinum Parking | 2900 Canton Street, Dallas, TX 75226 | Dallas | 32.7824816,-96.7811361</desc></wpt>
+  <wpt lat="32.7581612" lon="-97.3304294"><name>Jones Lot</name><desc>Platinum Parking | 109 Jones Street, Fort Worth, TX 76102 | Fort Worth | 32.7581612,-97.3304294</desc></wpt>
+  <wpt lat="29.7079521" lon="-95.4048911"><name>Latitude</name><desc>Platinum Parking | 1850 Old Main Street, Houston, TX 77030 | Houston | 29.7079521,-95.4048911</desc></wpt>
+  <wpt lat="30.2705467" lon="-97.744703"><name>Lavaca Garage</name><desc>Platinum Parking | 307 West 8th Street, Austin, TX 78701 | Austin | 30.2705467,-97.744703</desc></wpt>
+  <wpt lat="32.7909512" lon="-96.7980077"><name>Lexus Red Garage</name><desc>Platinum Parking | 2403 Flora Street, Dallas, TX 75201 | Dallas | 32.7909512,-96.7980077</desc></wpt>
+  <wpt lat="32.7904807" lon="-96.7951713"><name>Lexus Silver Garage</name><desc>Platinum Parking | 2539 Ross Avenue, Dallas, TX 75201 | Dallas | 32.7904807,-96.7951713</desc></wpt>
+  <wpt lat="30.268677" lon="-97.737397"><name>Lot 10119</name><desc>Platinum Parking | 500 East 8th Street, Austin, TX 78701 | Austin | 30.268677,-97.737397</desc></wpt>
+  <wpt lat="32.8143967" lon="-96.8014201"><name>Lot 138 – TCV 3838 Oaklawn</name><desc>Platinum Parking | 3838 Oak Lawn Avenue, Dallas, TX 75219 | Dallas | 32.8143967,-96.8014201</desc></wpt>
+  <wpt lat="32.7913386" lon="-96.8037557"><name>M and O Retail (McKinney and Olive Retail)</name><desc>Platinum Parking | 2021 McKinney Avenue, Dallas, TX 75201 | Dallas | 32.7913386,-96.8037557</desc></wpt>
+  <wpt lat="29.7633572" lon="-95.3628655"><name>Market Square</name><desc>Platinum Parking | 300 Milam Street, Houston, TX 77002 | Houston | 29.7633572,-95.3628655</desc></wpt>
+  <wpt lat="29.7572687" lon="-95.3649665"><name>McKinney Place</name><desc>Platinum Parking | 930 Main Street, Houston, TX 77002 | Houston | 29.7572687,-95.3649665</desc></wpt>
+  <wpt lat="29.5121778" lon="-98.576258"><name>Medical Center Tower</name><desc>Platinum Parking | 7940 Floyd Curl Drive, San Antonio, TX 78229 | San Antonio | 29.5121778,-98.576258</desc></wpt>
+  <wpt lat="32.8749243" lon="-96.7712045"><name>North Central Surgery Center 2 (NCSC)</name><desc>Platinum Parking | 9301 North Central Expressway, Dallas, TX 75231 | Dallas | 32.8749243,-96.7712045</desc></wpt>
+  <wpt lat="29.8587289" lon="-95.5232027"><name>North Cypress Medical</name><desc>Platinum Parking | 21212 Northwest Freeway, Houston, TX 77040 | Houston | 29.8587289,-95.5232027</desc></wpt>
+  <wpt lat="29.9602304" lon="-95.6834859"><name>North Cypress Medical Valet</name><desc>Platinum Parking | 21216 Northwest Freeway, Cypress, TX 77429 | Cypress | 29.9602304,-95.6834859</desc></wpt>
+  <wpt lat="32.7920113" lon="-96.8071216"><name>NorthLand Payne</name><desc>Platinum Parking | 2616 Harry Hines Boulevard, Dallas, TX 75201 | Dallas | 32.7920113,-96.8071216</desc></wpt>
+  <wpt lat="32.7513303" lon="-97.3320478"><name>Oil &amp; Gas Star Telegram Lot</name><desc>Platinum Parking | 811 Taylor Street, Fort Worth, TX 76102 | Fort Worth | 32.7513303,-97.3320478</desc></wpt>
+  <wpt lat="32.7865107" lon="-96.7967795"><name>Olive &amp; Pearl (Olive Pearl Park)</name><desc>Platinum Parking | 714 Olive Street, Dallas, TX 75201 | Dallas | 32.7865107,-96.7967795</desc></wpt>
+  <wpt lat="32.8628587" lon="-96.8076689"><name>One Preston Center</name><desc>Platinum Parking | 8222 Douglas Avenue, Dallas, TX 75225 | Dallas | 32.8628587,-96.8076689</desc></wpt>
+  <wpt lat="32.783606" lon="-96.792384"><name>Pacific, Pearl, Elm St.</name><desc>Platinum Parking | 2200 Pacific Avenue, Dallas, TX 75201 | Dallas | 32.783606,-96.792384</desc></wpt>
+  <wpt lat="30.2674651" lon="-97.7344474"><name>Palm Square</name><desc>Platinum Parking | 100 North Interstate Highway 35, Austin, TX 78701 | Austin | 30.2674651,-97.7344474</desc></wpt>
+  <wpt lat="29.746606" lon="-95.461249"><name>Post Oak Central One</name><desc>Platinum Parking | 1900 Post Oak Boulevard, Houston, TX 77056 | Houston | 29.746606,-95.461249</desc></wpt>
+  <wpt lat="29.7607602" lon="-95.3599393"><name>Preston San Jacinto SW</name><desc>Platinum Parking | 1155 Preston Street, Houston, TX 77002 | Houston | 29.7607602,-95.3599393</desc></wpt>
+  <wpt lat="30.272427" lon="-97.744663"><name>Rusk Lot</name><desc>Platinum Parking | 307 West 10th Street, Austin, TX 78701 | Austin | 30.272427,-97.744663</desc></wpt>
+  <wpt lat="32.7777356" lon="-96.8024726"><name>SantaFe IV Hotel</name><desc>Platinum Parking | 1114 Wood Street, Dallas, TX 75202 | Dallas | 32.7777356,-96.8024726</desc></wpt>
+  <wpt lat="29.8026316" lon="-95.4184519"><name>Shady Acres Saloon</name><desc>Platinum Parking | 1114 West 19th Street, Houston, TX 77008 | Houston | 29.8026316,-95.4184519</desc></wpt>
+  <wpt lat="29.5770512" lon="-95.6433618"><name>Smart Financial Centre</name><desc>Platinum Parking | 18111 Lexington Boulevard, Sugar Land, TX 77479 | Sugar Land | 29.5770512,-95.6433618</desc></wpt>
+  <wpt lat="32.7497671" lon="-97.33298"><name>St Andrews Lamar Lot</name><desc>Platinum Parking | 914 Lamar Street, Fort Worth, TX 76102 | Fort Worth | 32.7497671,-97.33298</desc></wpt>
+  <wpt lat="32.7494982" lon="-97.3326388"><name>St. Andrews</name><desc>Platinum Parking | 917 Lamar Street, Fort Worth, TX 76102 | Fort Worth | 32.7494982,-97.3326388</desc></wpt>
+  <wpt lat="32.7860543" lon="-96.7997742"><name>St. Paul Place</name><desc>Platinum Parking | 750 North Saint Paul Street, Dallas, TX 75201 | Dallas | 32.7860543,-96.7997742</desc></wpt>
+  <wpt lat="32.7552739" lon="-97.3348992"><name>Tarrant County Plaza Lot</name><desc>Platinum Parking | 200 Taylor Street, Fort Worth, TX 76102 | Fort Worth | 32.7552739,-97.3348992</desc></wpt>
+  <wpt lat="32.7776189" lon="-96.8079452"><name>Terminal Annex FB</name><desc>Platinum Parking | 207 South Houston Street, Dallas, TX 75202 | Dallas | 32.7776189,-96.8079452</desc></wpt>
+  <wpt lat="32.8647265" lon="-96.809677"><name>Terraces at Douglas Center</name><desc>Platinum Parking | 5960 Berkshire Lane, Dallas, TX 75225 | Dallas | 32.8647265,-96.809677</desc></wpt>
+  <wpt lat="29.5261902" lon="-98.5930963"><name>Texas Center for Athletes</name><desc>Platinum Parking | 21 Spurs Lane, San Antonio, TX 78240 | San Antonio | 29.5261902,-98.5930963</desc></wpt>
+  <wpt lat="29.6647694" lon="-95.4375889"><name>Texas Orthopedic Hospital</name><desc>Platinum Parking | 7401 South Main Street, Houston, TX 77030 | Houston | 29.6647694,-95.4375889</desc></wpt>
+  <wpt lat="32.8091778" lon="-96.8074501"><name>The Centrum</name><desc>Platinum Parking | 3102 Oak Lawn Avenue, Dallas, TX 75219 | Dallas | 32.8091778,-96.8074501</desc></wpt>
+  <wpt lat="32.7101294" lon="-97.399708"><name>The Shops at Clearfork</name><desc>Platinum Parking | 5188 Monahans Avenue, Fort Worth, TX 76107 | Fort Worth | 32.7101294,-97.399708</desc></wpt>
+  <wpt lat="30.2650237" lon="-97.7418956"><name>The Whitley</name><desc>Platinum Parking | 301 Brazos Street, Austin, TX 78701 | Austin | 30.2650237,-97.7418956</desc></wpt>
+  <wpt lat="29.6630979" lon="-95.4388791"><name>Three Corners Lot</name><desc>Platinum Parking | 8667 South Main Street, Houston, TX 77025 | Houston | 29.6630979,-95.4388791</desc></wpt>
+  <wpt lat="32.7876162" lon="-96.7992456"><name>Tramell Crow Center</name><desc>Platinum Parking | 2001 Ross Avenue, Dallas, TX 75201 | Dallas | 32.7876162,-96.7992456</desc></wpt>
+  <wpt lat="29.7573637" lon="-95.3660037"><name>Travis Place Garage (Kinder Morgan)</name><desc>Platinum Parking | 1010 Travis Street, Houston, TX 77002 | Houston | 29.7573637,-95.3660037</desc></wpt>
+  <wpt lat="30.273231" lon="-97.7439795"><name>USB Lot 1 &amp; 2</name><desc>Platinum Parking | 1010 Lavaca Street, Austin, TX 78701 | Austin | 30.273231,-97.7439795</desc></wpt>
+  <wpt lat="29.7327393" lon="-95.4318488"><name>Weslayan Tower</name><desc>Platinum Parking | 24 Greenway Plaza, Houston, TX 77046 | Houston | 29.7327393,-95.4318488</desc></wpt>
+  <wpt lat="32.7734295" lon="-96.8301299"><name>Westerly</name><desc>Platinum Parking | 411 West Commerce Street, Dallas, TX 75208 | Dallas | 32.7734295,-96.8301299</desc></wpt>
+  <wpt lat="32.7783671" lon="-96.7948506"><name>Young &amp; Ervay Lot</name><desc>Platinum Parking | 1705 Young Street, Dallas, TX 75201 | Dallas | 32.7783671,-96.7948506</desc></wpt>
+  <wpt lat="29.7531092" lon="-95.3586352"><name>Avenida North Garage (Discovery Green / GRB campus)</name><desc>Houston First (Avenida Houston) / ParkMobile / ParkWhiz | 1002 Avenida de Las Americas, Houston, TX 77010 | Houston | spaces=1848 | est_base=$5,395,864 | 29.7531092,-95.3586352</desc></wpt>
+  <wpt lat="29.7517932" lon="-95.3581139"><name>GRB South Garage</name><desc>Houston First (Avenida Houston) / ParkMobile / ParkWhiz | 1001 Avenida de Las Americas, Houston, TX 77010 | Houston | spaces=891 | est_base=$2,312,829 | 29.7517932,-95.3581139</desc></wpt>
+  <wpt lat="29.7507473" lon="-95.3622315"><name>Tundra Garage (Toyota Center)</name><desc>Toyota Center / ParkMobile (reservations); event operator | 1510 Polk Street, Houston, TX 77002 | Houston | spaces=2478 | est_base=$4,946,088 | 29.7507473,-95.3622315</desc></wpt>
+  <wpt lat="29.4263849" lon="-98.4906512"><name>Houston Street Garage</name><desc>City of San Antonio / SAPark | 240 E Houston Street, San Antonio, TX 78205 | San Antonio | spaces=900 | est_base=$1,273,266 | 29.4263849,-98.4906512</desc></wpt>
+  <wpt lat="29.4276301" lon="-98.4911389"><name>St. Mary's Garage</name><desc>City of San Antonio / SAPark | 205 E Travis Street, San Antonio, TX 78205 | San Antonio | spaces=704 | est_base=$995,977 | 29.4276301,-98.4911389</desc></wpt>
+  <wpt lat="29.432383" lon="-98.4928348"><name>San Antonio Library Garage</name><desc>City of San Antonio / SAPark | 600 Soledad Street, San Antonio, TX 78205 | San Antonio | spaces=428 | est_base=$469,319 | 29.432383,-98.4928348</desc></wpt>
+  <wpt lat="29.423164" lon="-98.485655"><name>San Antonio Marina Garage</name><desc>City of San Antonio / SAPark | 800 E Commerce Street, San Antonio, TX 78205 | San Antonio | spaces=465 | est_base=$509,891 | 29.423164,-98.485655</desc></wpt>
+  <wpt lat="29.4254369" lon="-98.4870717"><name>Alamo Lot</name><desc>City of San Antonio / SAPark | 313 Alamo Plaza, San Antonio, TX 78205 | San Antonio | spaces=61 | est_base=$106,534 | 29.4254369,-98.4870717</desc></wpt>
+  <wpt lat="29.4228908" lon="-98.484449"><name>San Antonio Convention Garage</name><desc>City of San Antonio / SAPark | 850 E Commerce Street, San Antonio, TX 78205 | San Antonio | 29.4228908,-98.484449</desc></wpt>
+  <wpt lat="29.4256099" lon="-98.5003151"><name>Market Square Garage</name><desc>City of San Antonio / SAPark | 602 W Commerce Street, San Antonio, TX 78207 | San Antonio | spaces=177 | est_base=$225,286 | 29.4256099,-98.5003151</desc></wpt>
+</gpx>
